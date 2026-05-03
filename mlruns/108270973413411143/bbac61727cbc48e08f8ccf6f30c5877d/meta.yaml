@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/bbac61727cbc48e08f8ccf6f30c5877d/artifacts
+end_time: 1777798790577
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: bbac61727cbc48e08f8ccf6f30c5877d
+run_name: adaptable-fish-969
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798790561
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/682a46f4f3f54a438fad6ce541aaa4bf/artifacts
+end_time: 1777798796206
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 682a46f4f3f54a438fad6ce541aaa4bf
+run_name: adorable-mink-644
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798796185
+status: 3
+tags: []
+user_id: runner

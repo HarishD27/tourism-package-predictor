@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/6fc311e6be164cb7be9714159c1f3ad3/artifacts
+end_time: 1777798791621
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 6fc311e6be164cb7be9714159c1f3ad3
+run_name: funny-smelt-200
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798791604
+status: 3
+tags: []
+user_id: runner

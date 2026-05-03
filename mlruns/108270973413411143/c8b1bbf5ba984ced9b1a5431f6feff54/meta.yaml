@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/c8b1bbf5ba984ced9b1a5431f6feff54/artifacts
+end_time: 1777798791197
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: c8b1bbf5ba984ced9b1a5431f6feff54
+run_name: blushing-lynx-381
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798791180
+status: 3
+tags: []
+user_id: runner

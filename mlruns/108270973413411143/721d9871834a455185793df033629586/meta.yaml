@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/721d9871834a455185793df033629586/artifacts
+end_time: 1777798791370
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 721d9871834a455185793df033629586
+run_name: colorful-goose-725
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798791353
+status: 3
+tags: []
+user_id: runner

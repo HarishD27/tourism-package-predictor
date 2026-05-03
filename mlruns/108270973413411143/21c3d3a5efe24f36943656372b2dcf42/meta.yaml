@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/21c3d3a5efe24f36943656372b2dcf42/artifacts
+end_time: 1777798786833
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 21c3d3a5efe24f36943656372b2dcf42
+run_name: bemused-hare-610
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798786822
+status: 3
+tags: []
+user_id: runner

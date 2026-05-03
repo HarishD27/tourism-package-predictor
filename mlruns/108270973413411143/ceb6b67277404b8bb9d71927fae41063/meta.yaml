@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/ceb6b67277404b8bb9d71927fae41063/artifacts
+end_time: 1777798795364
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: ceb6b67277404b8bb9d71927fae41063
+run_name: honorable-rook-28
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798795343
+status: 3
+tags: []
+user_id: runner

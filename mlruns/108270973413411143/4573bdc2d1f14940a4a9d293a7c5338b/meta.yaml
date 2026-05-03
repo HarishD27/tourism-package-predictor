@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/4573bdc2d1f14940a4a9d293a7c5338b/artifacts
+end_time: 1777798794613
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 4573bdc2d1f14940a4a9d293a7c5338b
+run_name: redolent-stork-579
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798794593
+status: 3
+tags: []
+user_id: runner

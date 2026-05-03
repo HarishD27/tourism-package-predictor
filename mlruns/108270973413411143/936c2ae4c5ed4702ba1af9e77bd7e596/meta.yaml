@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/936c2ae4c5ed4702ba1af9e77bd7e596/artifacts
+end_time: 1777798798144
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 936c2ae4c5ed4702ba1af9e77bd7e596
+run_name: glamorous-kit-238
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798798122
+status: 3
+tags: []
+user_id: runner

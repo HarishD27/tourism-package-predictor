@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/851ce9c242984135a026d1574e6c3204/artifacts
+end_time: 1777798788848
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 851ce9c242984135a026d1574e6c3204
+run_name: gaudy-stag-722
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798788834
+status: 3
+tags: []
+user_id: runner

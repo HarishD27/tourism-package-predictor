@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/63937f9b5b8740b4b49cc156294ab6d8/artifacts
+end_time: 1777798790413
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 63937f9b5b8740b4b49cc156294ab6d8
+run_name: aged-cow-479
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798790397
+status: 3
+tags: []
+user_id: runner

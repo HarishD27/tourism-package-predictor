@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/0504476a73e6440fbc85db0a2813b1f1/artifacts
+end_time: 1777798792868
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 0504476a73e6440fbc85db0a2813b1f1
+run_name: bold-fly-814
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798792849
+status: 3
+tags: []
+user_id: runner

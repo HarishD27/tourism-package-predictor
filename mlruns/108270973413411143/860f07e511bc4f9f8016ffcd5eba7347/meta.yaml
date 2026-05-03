@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/860f07e511bc4f9f8016ffcd5eba7347/artifacts
+end_time: 1777798786117
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 860f07e511bc4f9f8016ffcd5eba7347
+run_name: awesome-quail-604
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798786106
+status: 3
+tags: []
+user_id: runner

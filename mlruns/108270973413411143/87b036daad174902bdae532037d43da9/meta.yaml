@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/87b036daad174902bdae532037d43da9/artifacts
+end_time: 1777798789568
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 87b036daad174902bdae532037d43da9
+run_name: rebellious-seal-944
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798789553
+status: 3
+tags: []
+user_id: runner

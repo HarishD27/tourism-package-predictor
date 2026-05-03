@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/186ea918adbb499b8b8558b27d0535ab/artifacts
+end_time: 1777798797840
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 186ea918adbb499b8b8558b27d0535ab
+run_name: legendary-hare-429
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798797818
+status: 3
+tags: []
+user_id: runner

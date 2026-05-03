@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/6eb92be073104741bbce2db82c782744/artifacts
+end_time: 1777798795572
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 6eb92be073104741bbce2db82c782744
+run_name: gaudy-cow-476
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798795551
+status: 3
+tags: []
+user_id: runner

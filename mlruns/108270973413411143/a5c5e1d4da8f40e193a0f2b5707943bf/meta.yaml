@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/a5c5e1d4da8f40e193a0f2b5707943bf/artifacts
+end_time: 1777798786428
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: a5c5e1d4da8f40e193a0f2b5707943bf
+run_name: peaceful-wolf-624
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798786418
+status: 3
+tags: []
+user_id: runner

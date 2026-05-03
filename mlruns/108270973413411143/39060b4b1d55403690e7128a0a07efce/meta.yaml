@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/39060b4b1d55403690e7128a0a07efce/artifacts
+end_time: 1777798792355
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 39060b4b1d55403690e7128a0a07efce
+run_name: salty-shrew-539
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798792337
+status: 3
+tags: []
+user_id: runner

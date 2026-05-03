@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/b12e7a832da040d6a1e6df7ea09a7a10/artifacts
+end_time: 1777798792456
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: b12e7a832da040d6a1e6df7ea09a7a10
+run_name: amusing-shoat-720
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798792438
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/d9b59cb3d5e54fe1aba299fe2800c50a/artifacts
+end_time: 1777798790782
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: d9b59cb3d5e54fe1aba299fe2800c50a
+run_name: nebulous-foal-228
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798790766
+status: 3
+tags: []
+user_id: runner

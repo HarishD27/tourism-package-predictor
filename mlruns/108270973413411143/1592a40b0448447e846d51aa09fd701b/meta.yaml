@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/1592a40b0448447e846d51aa09fd701b/artifacts
+end_time: 1777798792052
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 1592a40b0448447e846d51aa09fd701b
+run_name: skillful-gnu-288
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798792035
+status: 3
+tags: []
+user_id: runner

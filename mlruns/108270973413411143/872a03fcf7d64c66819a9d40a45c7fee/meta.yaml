@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/872a03fcf7d64c66819a9d40a45c7fee/artifacts
+end_time: 1777798789671
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 872a03fcf7d64c66819a9d40a45c7fee
+run_name: gifted-snipe-808
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798789656
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/b85e6dc4147641669b6f62aed9c99f01/artifacts
+end_time: 1777798787008
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: b85e6dc4147641669b6f62aed9c99f01
+run_name: dapper-cow-655
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798786996
+status: 3
+tags: []
+user_id: runner

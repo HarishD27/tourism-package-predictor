@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/ff066a0a50f749c1a8e7f56607b60f6c/artifacts
+end_time: 1777798787146
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: ff066a0a50f749c1a8e7f56607b60f6c
+run_name: upbeat-lark-323
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798787134
+status: 3
+tags: []
+user_id: runner

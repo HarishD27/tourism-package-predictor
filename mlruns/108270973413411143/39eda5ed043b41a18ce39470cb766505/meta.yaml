@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/39eda5ed043b41a18ce39470cb766505/artifacts
+end_time: 1777798791718
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 39eda5ed043b41a18ce39470cb766505
+run_name: wistful-asp-740
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798791701
+status: 3
+tags: []
+user_id: runner

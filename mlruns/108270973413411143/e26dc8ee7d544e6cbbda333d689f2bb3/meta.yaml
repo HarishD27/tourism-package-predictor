@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/e26dc8ee7d544e6cbbda333d689f2bb3/artifacts
+end_time: 1777798793433
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: e26dc8ee7d544e6cbbda333d689f2bb3
+run_name: welcoming-cow-201
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798793414
+status: 3
+tags: []
+user_id: runner

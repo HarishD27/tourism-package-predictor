@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/73c39f6a6a834fd08a05fb59ba35e79b/artifacts
+end_time: 1777798799043
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 73c39f6a6a834fd08a05fb59ba35e79b
+run_name: bittersweet-grub-113
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798799020
+status: 3
+tags: []
+user_id: runner

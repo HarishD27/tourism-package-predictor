@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/ad9c5934b816482eb8436917c1270ab8/artifacts
+end_time: 1777798788560
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: ad9c5934b816482eb8436917c1270ab8
+run_name: smiling-goose-834
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798788546
+status: 3
+tags: []
+user_id: runner

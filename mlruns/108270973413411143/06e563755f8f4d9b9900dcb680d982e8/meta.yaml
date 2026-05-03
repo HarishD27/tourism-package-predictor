@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/06e563755f8f4d9b9900dcb680d982e8/artifacts
+end_time: 1777798796326
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 06e563755f8f4d9b9900dcb680d982e8
+run_name: gregarious-frog-995
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798796305
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/5ceb389458464606953c6e56b5a997bc/artifacts
+end_time: 1777798799200
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 5ceb389458464606953c6e56b5a997bc
+run_name: puzzled-boar-672
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798799176
+status: 3
+tags: []
+user_id: runner

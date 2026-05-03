@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/44d15e514d284d7eb3385359944502c0/artifacts
+end_time: 1777798788656
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 44d15e514d284d7eb3385359944502c0
+run_name: upbeat-sloth-819
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798788642
+status: 3
+tags: []
+user_id: runner

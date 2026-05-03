@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/a6ad818f77354d0bbfaa2a155b93e276/artifacts
+end_time: 1777798791312
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: a6ad818f77354d0bbfaa2a155b93e276
+run_name: bustling-donkey-413
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798791295
+status: 3
+tags: []
+user_id: runner

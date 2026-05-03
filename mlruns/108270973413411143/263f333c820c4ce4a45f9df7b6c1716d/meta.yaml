@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/263f333c820c4ce4a45f9df7b6c1716d/artifacts
+end_time: 1777798789398
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 263f333c820c4ce4a45f9df7b6c1716d
+run_name: suave-lark-763
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798789383
+status: 3
+tags: []
+user_id: runner

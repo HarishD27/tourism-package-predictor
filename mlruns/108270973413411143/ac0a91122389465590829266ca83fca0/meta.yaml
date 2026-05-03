@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/ac0a91122389465590829266ca83fca0/artifacts
+end_time: 1777798797027
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: ac0a91122389465590829266ca83fca0
+run_name: legendary-wolf-5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798797006
+status: 3
+tags: []
+user_id: runner

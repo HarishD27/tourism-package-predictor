@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/ee90ed5f41bb442cab29ada9ee0d8b9a/artifacts
+end_time: 1777798786203
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: ee90ed5f41bb442cab29ada9ee0d8b9a
+run_name: colorful-quail-37
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798786192
+status: 3
+tags: []
+user_id: runner

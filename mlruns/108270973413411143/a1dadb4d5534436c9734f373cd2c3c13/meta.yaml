@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/a1dadb4d5534436c9734f373cd2c3c13/artifacts
+end_time: 1777798790523
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: a1dadb4d5534436c9734f373cd2c3c13
+run_name: bouncy-gnu-149
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798790507
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/50f4707177ec4dfda09ba06249c1585a/artifacts
+end_time: 1777798788528
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 50f4707177ec4dfda09ba06249c1585a
+run_name: hilarious-deer-71
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798788514
+status: 3
+tags: []
+user_id: runner

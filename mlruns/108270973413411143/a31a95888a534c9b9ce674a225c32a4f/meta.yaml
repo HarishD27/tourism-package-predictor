@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/a31a95888a534c9b9ce674a225c32a4f/artifacts
+end_time: 1777798792193
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: a31a95888a534c9b9ce674a225c32a4f
+run_name: angry-ox-471
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798792176
+status: 3
+tags: []
+user_id: runner

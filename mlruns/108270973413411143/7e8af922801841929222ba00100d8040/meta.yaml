@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/7e8af922801841929222ba00100d8040/artifacts
+end_time: 1777798787639
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 7e8af922801841929222ba00100d8040
+run_name: chill-deer-666
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798787627
+status: 3
+tags: []
+user_id: runner

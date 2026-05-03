@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/99afd2a1dc754dc3834d4154c91f43f5/artifacts
+end_time: 1777798789517
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 99afd2a1dc754dc3834d4154c91f43f5
+run_name: aged-stoat-689
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798789502
+status: 3
+tags: []
+user_id: runner

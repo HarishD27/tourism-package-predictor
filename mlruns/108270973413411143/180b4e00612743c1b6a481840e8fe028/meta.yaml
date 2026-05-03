@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/180b4e00612743c1b6a481840e8fe028/artifacts
+end_time: 1777798790877
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 180b4e00612743c1b6a481840e8fe028
+run_name: chill-mare-436
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798790860
+status: 3
+tags: []
+user_id: runner

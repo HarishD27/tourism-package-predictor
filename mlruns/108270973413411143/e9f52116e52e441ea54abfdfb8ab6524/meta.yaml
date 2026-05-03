@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/e9f52116e52e441ea54abfdfb8ab6524/artifacts
+end_time: 1777798787174
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: e9f52116e52e441ea54abfdfb8ab6524
+run_name: powerful-loon-745
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798787162
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/4aed7c8907bb4983bb1c90cbac750761/artifacts
+end_time: 1777798787272
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 4aed7c8907bb4983bb1c90cbac750761
+run_name: monumental-snail-615
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798787260
+status: 3
+tags: []
+user_id: runner

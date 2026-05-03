@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/67d05d31568a449cbc84f0d6506d3a5c/artifacts
+end_time: 1777798797917
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 67d05d31568a449cbc84f0d6506d3a5c
+run_name: inquisitive-ram-565
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798797894
+status: 3
+tags: []
+user_id: runner

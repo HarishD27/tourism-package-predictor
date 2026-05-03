@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/c1e00249d1fc4bc1a60fd56371f9d2ba/artifacts
+end_time: 1777798790144
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: c1e00249d1fc4bc1a60fd56371f9d2ba
+run_name: fortunate-swan-756
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798790128
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/6dcef64493e94accba3e004359f921de/artifacts
+end_time: 1777798798551
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 6dcef64493e94accba3e004359f921de
+run_name: stately-bird-304
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798798529
+status: 3
+tags: []
+user_id: runner

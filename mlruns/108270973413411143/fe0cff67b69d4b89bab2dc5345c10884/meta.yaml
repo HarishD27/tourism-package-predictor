@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/fe0cff67b69d4b89bab2dc5345c10884/artifacts
+end_time: 1777798788897
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: fe0cff67b69d4b89bab2dc5345c10884
+run_name: luxuriant-loon-565
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798788883
+status: 3
+tags: []
+user_id: runner

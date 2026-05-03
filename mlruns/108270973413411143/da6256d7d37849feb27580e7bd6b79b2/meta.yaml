@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/da6256d7d37849feb27580e7bd6b79b2/artifacts
+end_time: 1777798788576
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: da6256d7d37849feb27580e7bd6b79b2
+run_name: bustling-lark-306
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798788562
+status: 3
+tags: []
+user_id: runner

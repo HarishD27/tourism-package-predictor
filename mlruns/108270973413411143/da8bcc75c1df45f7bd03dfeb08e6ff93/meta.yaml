@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/da8bcc75c1df45f7bd03dfeb08e6ff93/artifacts
+end_time: 1777798798220
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: da8bcc75c1df45f7bd03dfeb08e6ff93
+run_name: calm-carp-806
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798798198
+status: 3
+tags: []
+user_id: runner

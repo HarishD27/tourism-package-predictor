@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/2ef65cfbfd58443fb700a2d3e1a89eaf/artifacts
+end_time: 1777798788291
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 2ef65cfbfd58443fb700a2d3e1a89eaf
+run_name: bold-tern-118
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798788277
+status: 3
+tags: []
+user_id: runner

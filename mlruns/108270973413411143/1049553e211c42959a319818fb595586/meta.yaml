@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/1049553e211c42959a319818fb595586/artifacts
+end_time: 1777798796014
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 1049553e211c42959a319818fb595586
+run_name: grandiose-vole-146
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798795993
+status: 3
+tags: []
+user_id: runner

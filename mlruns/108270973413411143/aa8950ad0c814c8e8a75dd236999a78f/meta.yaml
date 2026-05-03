@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/aa8950ad0c814c8e8a75dd236999a78f/artifacts
+end_time: 1777798792294
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: aa8950ad0c814c8e8a75dd236999a78f
+run_name: victorious-fox-537
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798792276
+status: 3
+tags: []
+user_id: runner

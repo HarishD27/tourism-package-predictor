@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/71d30c7ba8e644a3914f21718b83ddc8/artifacts
+end_time: 1777798786365
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 71d30c7ba8e644a3914f21718b83ddc8
+run_name: amusing-mole-572
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798786354
+status: 3
+tags: []
+user_id: runner

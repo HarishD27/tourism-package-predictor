@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/67f45708d99647db82ac238b85bbc425/artifacts
+end_time: 1777798796760
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 67f45708d99647db82ac238b85bbc425
+run_name: charming-boar-476
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798796739
+status: 3
+tags: []
+user_id: runner

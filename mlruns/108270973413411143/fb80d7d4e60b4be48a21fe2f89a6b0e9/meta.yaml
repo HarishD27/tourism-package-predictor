@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/fb80d7d4e60b4be48a21fe2f89a6b0e9/artifacts
+end_time: 1777798795733
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: fb80d7d4e60b4be48a21fe2f89a6b0e9
+run_name: smiling-roo-543
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798795713
+status: 3
+tags: []
+user_id: runner

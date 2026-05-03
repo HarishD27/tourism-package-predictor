@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/e47396cba8e4429998c69ec9394d8d5d/artifacts
+end_time: 1777798786940
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: e47396cba8e4429998c69ec9394d8d5d
+run_name: silent-mouse-387
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798786929
+status: 3
+tags: []
+user_id: runner

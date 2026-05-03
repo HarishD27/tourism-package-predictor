@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/9e7548d391d54c9ea220fc2325c922fa/artifacts
+end_time: 1777798791351
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 9e7548d391d54c9ea220fc2325c922fa
+run_name: charming-toad-161
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798791334
+status: 3
+tags: []
+user_id: runner

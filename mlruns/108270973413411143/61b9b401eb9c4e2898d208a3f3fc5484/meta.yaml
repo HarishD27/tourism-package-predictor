@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/61b9b401eb9c4e2898d208a3f3fc5484/artifacts
+end_time: 1777798798577
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 61b9b401eb9c4e2898d208a3f3fc5484
+run_name: awesome-fly-666
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798798554
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/4634eecc393d4ca9949f674354d97c99/artifacts
+end_time: 1777798799252
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 4634eecc393d4ca9949f674354d97c99
+run_name: marvelous-shad-721
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798799229
+status: 3
+tags: []
+user_id: runner

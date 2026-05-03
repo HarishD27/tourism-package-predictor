@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/d29b2ddb48384fa585be45701f04a0e8/artifacts
+end_time: 1777798788639
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: d29b2ddb48384fa585be45701f04a0e8
+run_name: worried-calf-654
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798788626
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/2cd741a7e2334d67b0614b610719fc06/artifacts
+end_time: 1777798791254
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 2cd741a7e2334d67b0614b610719fc06
+run_name: rogue-bear-15
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798791237
+status: 3
+tags: []
+user_id: runner

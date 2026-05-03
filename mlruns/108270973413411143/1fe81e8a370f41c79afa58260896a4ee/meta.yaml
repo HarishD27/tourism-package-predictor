@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/1fe81e8a370f41c79afa58260896a4ee/artifacts
+end_time: 1777798790002
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 1fe81e8a370f41c79afa58260896a4ee
+run_name: adorable-sow-991
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798789986
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/dd8447248d4d4f58818adfaf672e7e3e/artifacts
+end_time: 1777798786067
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: dd8447248d4d4f58818adfaf672e7e3e
+run_name: bouncy-bee-177
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798786054
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/5c8c6a8aad3846eaa878ceded67936a1/artifacts
+end_time: 1777798788929
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 5c8c6a8aad3846eaa878ceded67936a1
+run_name: efficient-ray-24
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798788915
+status: 3
+tags: []
+user_id: runner

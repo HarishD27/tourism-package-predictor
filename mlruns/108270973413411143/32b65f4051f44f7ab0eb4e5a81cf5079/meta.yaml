@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/32b65f4051f44f7ab0eb4e5a81cf5079/artifacts
+end_time: 1777798786352
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 32b65f4051f44f7ab0eb4e5a81cf5079
+run_name: aged-bass-635
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798786342
+status: 3
+tags: []
+user_id: runner

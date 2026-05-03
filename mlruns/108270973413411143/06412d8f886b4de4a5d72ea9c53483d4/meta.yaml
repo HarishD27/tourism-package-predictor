@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/06412d8f886b4de4a5d72ea9c53483d4/artifacts
+end_time: 1777798792416
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 06412d8f886b4de4a5d72ea9c53483d4
+run_name: upbeat-stork-470
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798792398
+status: 3
+tags: []
+user_id: runner

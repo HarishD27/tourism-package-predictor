@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/cdcd4b0a5ff845828fa333a14c4f2f57/artifacts
+end_time: 1777798792951
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: cdcd4b0a5ff845828fa333a14c4f2f57
+run_name: rumbling-dolphin-413
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798792933
+status: 3
+tags: []
+user_id: runner

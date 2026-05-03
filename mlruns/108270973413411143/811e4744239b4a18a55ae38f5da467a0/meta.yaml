@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/811e4744239b4a18a55ae38f5da467a0/artifacts
+end_time: 1777798787743
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 811e4744239b4a18a55ae38f5da467a0
+run_name: bittersweet-ray-802
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798787730
+status: 3
+tags: []
+user_id: runner

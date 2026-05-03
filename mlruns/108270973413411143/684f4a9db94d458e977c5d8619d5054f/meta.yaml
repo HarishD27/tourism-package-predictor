@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/684f4a9db94d458e977c5d8619d5054f/artifacts
+end_time: 1777798789740
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 684f4a9db94d458e977c5d8619d5054f
+run_name: secretive-shrike-849
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798789725
+status: 3
+tags: []
+user_id: runner

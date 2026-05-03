@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/a53a7a83de3345249e8ee95aa6b4c03a/artifacts
+end_time: 1777798798862
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: a53a7a83de3345249e8ee95aa6b4c03a
+run_name: entertaining-cod-902
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798798839
+status: 3
+tags: []
+user_id: runner

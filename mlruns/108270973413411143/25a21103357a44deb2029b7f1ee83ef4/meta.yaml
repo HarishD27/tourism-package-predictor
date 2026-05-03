@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/25a21103357a44deb2029b7f1ee83ef4/artifacts
+end_time: 1777798799330
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 25a21103357a44deb2029b7f1ee83ef4
+run_name: delicate-bat-886
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798799307
+status: 3
+tags: []
+user_id: runner

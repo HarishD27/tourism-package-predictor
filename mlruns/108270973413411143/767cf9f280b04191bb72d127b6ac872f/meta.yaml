@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/767cf9f280b04191bb72d127b6ac872f/artifacts
+end_time: 1777798787330
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 767cf9f280b04191bb72d127b6ac872f
+run_name: trusting-zebra-253
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798787318
+status: 3
+tags: []
+user_id: runner

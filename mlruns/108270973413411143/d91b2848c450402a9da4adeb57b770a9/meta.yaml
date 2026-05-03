@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/d91b2848c450402a9da4adeb57b770a9/artifacts
+end_time: 1777798786767
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: d91b2848c450402a9da4adeb57b770a9
+run_name: selective-turtle-291
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798786755
+status: 3
+tags: []
+user_id: runner

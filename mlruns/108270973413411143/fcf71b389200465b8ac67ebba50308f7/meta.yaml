@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/fcf71b389200465b8ac67ebba50308f7/artifacts
+end_time: 1777798786780
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: fcf71b389200465b8ac67ebba50308f7
+run_name: capricious-slug-140
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798786769
+status: 3
+tags: []
+user_id: runner

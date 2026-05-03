@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/262b54f9cc4e4167abad26a856d81ce5/artifacts
+end_time: 1777798786806
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 262b54f9cc4e4167abad26a856d81ce5
+run_name: serious-fly-771
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798786795
+status: 3
+tags: []
+user_id: runner

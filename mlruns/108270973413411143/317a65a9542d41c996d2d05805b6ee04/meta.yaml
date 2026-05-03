@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/317a65a9542d41c996d2d05805b6ee04/artifacts
+end_time: 1777798799756
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 317a65a9542d41c996d2d05805b6ee04
+run_name: rogue-vole-827
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798799732
+status: 3
+tags: []
+user_id: runner

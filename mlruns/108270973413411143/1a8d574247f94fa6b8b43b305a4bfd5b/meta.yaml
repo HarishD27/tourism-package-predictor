@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/1a8d574247f94fa6b8b43b305a4bfd5b/artifacts
+end_time: 1777798790020
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 1a8d574247f94fa6b8b43b305a4bfd5b
+run_name: mercurial-mink-371
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798790004
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/6481b73cf84f4d2b919963a5409d5e2c/artifacts
+end_time: 1777798788816
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 6481b73cf84f4d2b919963a5409d5e2c
+run_name: languid-grouse-109
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798788802
+status: 3
+tags: []
+user_id: runner

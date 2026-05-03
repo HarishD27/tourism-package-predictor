@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/f4c33c4137bc4cf3beda1f46368a0768/artifacts
+end_time: 1777798794365
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: f4c33c4137bc4cf3beda1f46368a0768
+run_name: rebellious-horse-661
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798794345
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/898749da015c45b3a4667f87a30fc710/artifacts
+end_time: 1777798794037
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 898749da015c45b3a4667f87a30fc710
+run_name: aged-fox-737
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798794018
+status: 3
+tags: []
+user_id: runner

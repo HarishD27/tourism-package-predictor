@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/ea0099926b344342afb6467651130975/artifacts
+end_time: 1777798787803
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: ea0099926b344342afb6467651130975
+run_name: chill-gnat-168
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798787790
+status: 3
+tags: []
+user_id: runner

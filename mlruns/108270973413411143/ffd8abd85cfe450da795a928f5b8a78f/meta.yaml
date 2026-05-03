@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/ffd8abd85cfe450da795a928f5b8a78f/artifacts
+end_time: 1777798793222
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: ffd8abd85cfe450da795a928f5b8a78f
+run_name: classy-boar-37
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798793204
+status: 3
+tags: []
+user_id: runner

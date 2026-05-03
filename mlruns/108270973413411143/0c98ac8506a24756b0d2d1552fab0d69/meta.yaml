@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/0c98ac8506a24756b0d2d1552fab0d69/artifacts
+end_time: 1777798786416
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 0c98ac8506a24756b0d2d1552fab0d69
+run_name: capable-whale-566
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798786405
+status: 3
+tags: []
+user_id: runner

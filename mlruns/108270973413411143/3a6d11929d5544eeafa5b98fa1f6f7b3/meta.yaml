@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/3a6d11929d5544eeafa5b98fa1f6f7b3/artifacts
+end_time: 1777798792253
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 3a6d11929d5544eeafa5b98fa1f6f7b3
+run_name: sneaky-trout-591
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798792236
+status: 3
+tags: []
+user_id: runner

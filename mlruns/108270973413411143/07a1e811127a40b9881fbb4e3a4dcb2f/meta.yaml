@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/07a1e811127a40b9881fbb4e3a4dcb2f/artifacts
+end_time: 1777798790359
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 07a1e811127a40b9881fbb4e3a4dcb2f
+run_name: enthused-conch-465
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798790343
+status: 3
+tags: []
+user_id: runner

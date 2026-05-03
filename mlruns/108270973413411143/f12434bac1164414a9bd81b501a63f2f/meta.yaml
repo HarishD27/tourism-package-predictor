@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/f12434bac1164414a9bd81b501a63f2f/artifacts
+end_time: 1777798790126
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: f12434bac1164414a9bd81b501a63f2f
+run_name: efficient-steed-202
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798790111
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/8ff0265ff7414ec4a325129addb69c04/artifacts
+end_time: 1777798792764
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 8ff0265ff7414ec4a325129addb69c04
+run_name: luminous-snail-154
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798792745
+status: 3
+tags: []
+user_id: runner

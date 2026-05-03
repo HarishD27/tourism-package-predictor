@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/af885a0d3c7a4e5f83b891fe2cdc7a4c/artifacts
+end_time: 1777798795410
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: af885a0d3c7a4e5f83b891fe2cdc7a4c
+run_name: exultant-panda-758
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798795390
+status: 3
+tags: []
+user_id: runner

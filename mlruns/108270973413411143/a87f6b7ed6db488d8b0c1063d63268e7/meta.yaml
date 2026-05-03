@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/a87f6b7ed6db488d8b0c1063d63268e7/artifacts
+end_time: 1777798791273
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: a87f6b7ed6db488d8b0c1063d63268e7
+run_name: fortunate-fish-760
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798791256
+status: 3
+tags: []
+user_id: runner

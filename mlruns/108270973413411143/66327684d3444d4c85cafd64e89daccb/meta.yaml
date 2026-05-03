@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/66327684d3444d4c85cafd64e89daccb/artifacts
+end_time: 1777798793582
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 66327684d3444d4c85cafd64e89daccb
+run_name: marvelous-fish-218
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798793563
+status: 3
+tags: []
+user_id: runner

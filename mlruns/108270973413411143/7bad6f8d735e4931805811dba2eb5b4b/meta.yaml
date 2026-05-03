@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/7bad6f8d735e4931805811dba2eb5b4b/artifacts
+end_time: 1777798789077
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 7bad6f8d735e4931805811dba2eb5b4b
+run_name: capable-lark-38
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798789063
+status: 3
+tags: []
+user_id: runner

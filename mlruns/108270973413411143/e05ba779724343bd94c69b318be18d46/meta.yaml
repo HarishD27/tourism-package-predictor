@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/e05ba779724343bd94c69b318be18d46/artifacts
+end_time: 1777798791065
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: e05ba779724343bd94c69b318be18d46
+run_name: chill-toad-149
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798791048
+status: 3
+tags: []
+user_id: runner

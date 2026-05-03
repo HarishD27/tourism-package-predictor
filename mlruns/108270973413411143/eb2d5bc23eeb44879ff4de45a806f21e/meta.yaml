@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/eb2d5bc23eeb44879ff4de45a806f21e/artifacts
+end_time: 1777798795803
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: eb2d5bc23eeb44879ff4de45a806f21e
+run_name: calm-sow-286
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798795783
+status: 3
+tags: []
+user_id: runner

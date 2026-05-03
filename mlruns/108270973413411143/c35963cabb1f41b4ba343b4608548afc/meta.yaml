@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/c35963cabb1f41b4ba343b4608548afc/artifacts
+end_time: 1777798791235
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: c35963cabb1f41b4ba343b4608548afc
+run_name: amazing-kite-128
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798791218
+status: 3
+tags: []
+user_id: runner

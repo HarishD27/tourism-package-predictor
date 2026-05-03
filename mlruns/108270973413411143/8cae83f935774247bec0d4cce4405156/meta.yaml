@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/8cae83f935774247bec0d4cce4405156/artifacts
+end_time: 1777798796664
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 8cae83f935774247bec0d4cce4405156
+run_name: salty-colt-472
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798796642
+status: 3
+tags: []
+user_id: runner

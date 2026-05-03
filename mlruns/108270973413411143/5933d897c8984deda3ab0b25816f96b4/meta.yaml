@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/5933d897c8984deda3ab0b25816f96b4/artifacts
+end_time: 1777798791816
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 5933d897c8984deda3ab0b25816f96b4
+run_name: secretive-moth-60
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798791799
+status: 3
+tags: []
+user_id: runner

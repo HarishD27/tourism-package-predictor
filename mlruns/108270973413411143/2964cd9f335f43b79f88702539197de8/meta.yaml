@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/2964cd9f335f43b79f88702539197de8/artifacts
+end_time: 1777798787021
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 2964cd9f335f43b79f88702539197de8
+run_name: sneaky-sloth-767
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798787010
+status: 3
+tags: []
+user_id: runner

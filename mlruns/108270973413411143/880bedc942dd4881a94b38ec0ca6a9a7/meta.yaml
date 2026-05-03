@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/880bedc942dd4881a94b38ec0ca6a9a7/artifacts
+end_time: 1777798793647
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 880bedc942dd4881a94b38ec0ca6a9a7
+run_name: redolent-trout-438
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798793627
+status: 3
+tags: []
+user_id: runner

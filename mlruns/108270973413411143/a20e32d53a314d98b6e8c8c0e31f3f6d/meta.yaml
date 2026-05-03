@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/a20e32d53a314d98b6e8c8c0e31f3f6d/artifacts
+end_time: 1777798789897
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: a20e32d53a314d98b6e8c8c0e31f3f6d
+run_name: adventurous-swan-417
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798789881
+status: 3
+tags: []
+user_id: runner

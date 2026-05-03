@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/735c6f8200e94db099359f2eea829b2f/artifacts
+end_time: 1777798789044
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 735c6f8200e94db099359f2eea829b2f
+run_name: stylish-worm-549
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798789030
+status: 3
+tags: []
+user_id: runner

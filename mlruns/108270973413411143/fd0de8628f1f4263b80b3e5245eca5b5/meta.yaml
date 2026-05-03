@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/fd0de8628f1f4263b80b3e5245eca5b5/artifacts
+end_time: 1777798787448
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: fd0de8628f1f4263b80b3e5245eca5b5
+run_name: dashing-finch-444
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798787435
+status: 3
+tags: []
+user_id: runner

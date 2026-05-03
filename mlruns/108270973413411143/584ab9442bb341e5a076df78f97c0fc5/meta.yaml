@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/584ab9442bb341e5a076df78f97c0fc5/artifacts
+end_time: 1777798788783
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 584ab9442bb341e5a076df78f97c0fc5
+run_name: flawless-owl-657
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798788769
+status: 3
+tags: []
+user_id: runner

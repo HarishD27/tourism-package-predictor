@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/511d43dc533749ecb228ca10765c8d97/artifacts
+end_time: 1777798791046
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 511d43dc533749ecb228ca10765c8d97
+run_name: delightful-mule-74
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798791029
+status: 3
+tags: []
+user_id: runner

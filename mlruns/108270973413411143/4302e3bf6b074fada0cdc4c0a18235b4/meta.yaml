@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/4302e3bf6b074fada0cdc4c0a18235b4/artifacts
+end_time: 1777798799969
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 4302e3bf6b074fada0cdc4c0a18235b4
+run_name: awesome-crow-860
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798799946
+status: 3
+tags: []
+user_id: runner

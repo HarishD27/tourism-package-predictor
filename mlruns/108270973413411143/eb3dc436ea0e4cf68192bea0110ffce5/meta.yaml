@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/eb3dc436ea0e4cf68192bea0110ffce5/artifacts
+end_time: 1777798795294
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: eb3dc436ea0e4cf68192bea0110ffce5
+run_name: nimble-wolf-593
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798795274
+status: 3
+tags: []
+user_id: runner

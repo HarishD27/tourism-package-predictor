@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/2c3fb3bb1d144744b761d2909d11ecb7/artifacts
+end_time: 1777798786570
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 2c3fb3bb1d144744b761d2909d11ecb7
+run_name: indecisive-auk-159
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798786559
+status: 3
+tags: []
+user_id: runner

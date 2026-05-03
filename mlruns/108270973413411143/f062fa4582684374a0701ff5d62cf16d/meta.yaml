@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/f062fa4582684374a0701ff5d62cf16d/artifacts
+end_time: 1777798788703
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: f062fa4582684374a0701ff5d62cf16d
+run_name: skillful-mare-598
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798788690
+status: 3
+tags: []
+user_id: runner

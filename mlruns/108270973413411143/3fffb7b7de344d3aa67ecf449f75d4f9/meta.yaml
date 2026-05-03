@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/3fffb7b7de344d3aa67ecf449f75d4f9/artifacts
+end_time: 1777798796398
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 3fffb7b7de344d3aa67ecf449f75d4f9
+run_name: kindly-rook-679
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798796377
+status: 3
+tags: []
+user_id: runner

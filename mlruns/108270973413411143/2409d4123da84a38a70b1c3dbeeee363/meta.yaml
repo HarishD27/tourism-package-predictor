@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/2409d4123da84a38a70b1c3dbeeee363/artifacts
+end_time: 1777798791875
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 2409d4123da84a38a70b1c3dbeeee363
+run_name: bright-rook-186
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798791857
+status: 3
+tags: []
+user_id: runner

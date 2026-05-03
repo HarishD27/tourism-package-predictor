@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/ba3cdeb63c9341e18f0de3217a91e5a0/artifacts
+end_time: 1777798792274
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: ba3cdeb63c9341e18f0de3217a91e5a0
+run_name: secretive-crow-862
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798792256
+status: 3
+tags: []
+user_id: runner

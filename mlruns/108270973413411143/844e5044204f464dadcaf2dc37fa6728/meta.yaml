@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/844e5044204f464dadcaf2dc37fa6728/artifacts
+end_time: 1777798797394
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 844e5044204f464dadcaf2dc37fa6728
+run_name: caring-wolf-557
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798797372
+status: 3
+tags: []
+user_id: runner

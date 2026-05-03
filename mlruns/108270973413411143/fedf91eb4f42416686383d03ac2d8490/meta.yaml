@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/fedf91eb4f42416686383d03ac2d8490/artifacts
+end_time: 1777798795225
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: fedf91eb4f42416686383d03ac2d8490
+run_name: painted-mule-168
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798795205
+status: 3
+tags: []
+user_id: runner

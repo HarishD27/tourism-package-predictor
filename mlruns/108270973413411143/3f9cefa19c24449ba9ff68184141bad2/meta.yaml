@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/3f9cefa19c24449ba9ff68184141bad2/artifacts
+end_time: 1777798791914
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 3f9cefa19c24449ba9ff68184141bad2
+run_name: bright-colt-507
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798791897
+status: 3
+tags: []
+user_id: runner

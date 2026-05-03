@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/d3aec9d581ba4a699cbfa2c91c6d14ba/artifacts
+end_time: 1777798797566
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: d3aec9d581ba4a699cbfa2c91c6d14ba
+run_name: spiffy-squirrel-573
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798797544
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/13740f2af3604f399a0cc925157f6e52/artifacts
+end_time: 1777798788354
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 13740f2af3604f399a0cc925157f6e52
+run_name: monumental-calf-453
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798788340
+status: 3
+tags: []
+user_id: runner

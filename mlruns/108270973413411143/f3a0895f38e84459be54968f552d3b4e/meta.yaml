@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/f3a0895f38e84459be54968f552d3b4e/artifacts
+end_time: 1777798788751
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: f3a0895f38e84459be54968f552d3b4e
+run_name: vaunted-shrimp-225
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798788737
+status: 3
+tags: []
+user_id: runner

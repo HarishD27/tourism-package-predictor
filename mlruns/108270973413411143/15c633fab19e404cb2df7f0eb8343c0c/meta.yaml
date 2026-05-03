@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/15c633fab19e404cb2df7f0eb8343c0c/artifacts
+end_time: 1777798787625
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 15c633fab19e404cb2df7f0eb8343c0c
+run_name: nebulous-eel-821
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798787612
+status: 3
+tags: []
+user_id: runner

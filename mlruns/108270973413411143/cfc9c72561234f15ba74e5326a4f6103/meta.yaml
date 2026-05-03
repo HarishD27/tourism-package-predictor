@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/cfc9c72561234f15ba74e5326a4f6103/artifacts
+end_time: 1777798794124
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: cfc9c72561234f15ba74e5326a4f6103
+run_name: industrious-lark-453
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798794105
+status: 3
+tags: []
+user_id: runner

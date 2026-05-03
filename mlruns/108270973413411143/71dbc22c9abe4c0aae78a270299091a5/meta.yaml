@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/71dbc22c9abe4c0aae78a270299091a5/artifacts
+end_time: 1777798800186
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 71dbc22c9abe4c0aae78a270299091a5
+run_name: luminous-ram-181
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798800162
+status: 3
+tags: []
+user_id: runner

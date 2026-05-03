@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/96a736f52c654e66a052df0e15976249/artifacts
+end_time: 1777798799675
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 96a736f52c654e66a052df0e15976249
+run_name: upset-gull-886
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798799651
+status: 3
+tags: []
+user_id: runner

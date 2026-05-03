@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/746a1dc10ee64becbff6f16e424c8d84/artifacts
+end_time: 1777798787863
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 746a1dc10ee64becbff6f16e424c8d84
+run_name: fun-quail-137
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798787850
+status: 3
+tags: []
+user_id: runner

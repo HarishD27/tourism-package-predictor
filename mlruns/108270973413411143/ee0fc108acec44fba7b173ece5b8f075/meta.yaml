@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/ee0fc108acec44fba7b173ece5b8f075/artifacts
+end_time: 1777798786340
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: ee0fc108acec44fba7b173ece5b8f075
+run_name: wistful-koi-65
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798786329
+status: 3
+tags: []
+user_id: runner

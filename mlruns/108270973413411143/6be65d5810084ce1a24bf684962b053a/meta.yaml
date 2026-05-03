@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/6be65d5810084ce1a24bf684962b053a/artifacts
+end_time: 1777798786403
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 6be65d5810084ce1a24bf684962b053a
+run_name: bald-shrike-811
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798786392
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/f0964956fe4e440eabade81585c75d31/artifacts
+end_time: 1777798797052
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: f0964956fe4e440eabade81585c75d31
+run_name: welcoming-stag-907
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798797030
+status: 3
+tags: []
+user_id: runner

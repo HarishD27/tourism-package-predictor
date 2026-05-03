@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/65e1982945554a68a7ef3c16ea46d5f6/artifacts
+end_time: 1777798790162
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 65e1982945554a68a7ef3c16ea46d5f6
+run_name: merciful-ram-474
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798790146
+status: 3
+tags: []
+user_id: runner

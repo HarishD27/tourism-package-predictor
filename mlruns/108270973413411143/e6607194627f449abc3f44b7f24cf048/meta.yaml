@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/e6607194627f449abc3f44b7f24cf048/artifacts
+end_time: 1777798793139
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: e6607194627f449abc3f44b7f24cf048
+run_name: incongruous-worm-225
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798793120
+status: 3
+tags: []
+user_id: runner

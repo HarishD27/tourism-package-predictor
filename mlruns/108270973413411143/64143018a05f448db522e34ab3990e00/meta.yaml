@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/64143018a05f448db522e34ab3990e00/artifacts
+end_time: 1777798792233
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 64143018a05f448db522e34ab3990e00
+run_name: bemused-dolphin-787
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798792216
+status: 3
+tags: []
+user_id: runner

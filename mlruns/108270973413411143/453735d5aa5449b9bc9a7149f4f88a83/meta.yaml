@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/453735d5aa5449b9bc9a7149f4f88a83/artifacts
+end_time: 1777798798603
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 453735d5aa5449b9bc9a7149f4f88a83
+run_name: worried-conch-313
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798798580
+status: 3
+tags: []
+user_id: runner

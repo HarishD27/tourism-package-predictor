@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/6ea4e6bd116d4f78af71c8586a89324e/artifacts
+end_time: 1777798798169
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 6ea4e6bd116d4f78af71c8586a89324e
+run_name: dapper-newt-513
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798798147
+status: 3
+tags: []
+user_id: runner

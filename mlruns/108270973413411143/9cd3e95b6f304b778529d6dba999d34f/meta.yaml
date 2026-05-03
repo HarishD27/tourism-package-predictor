@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/9cd3e95b6f304b778529d6dba999d34f/artifacts
+end_time: 1777798788167
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 9cd3e95b6f304b778529d6dba999d34f
+run_name: beautiful-fowl-973
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798788154
+status: 3
+tags: []
+user_id: runner

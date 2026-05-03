@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/fb1fc896bcfa4342820a0be781cb4854/artifacts
+end_time: 1777798794343
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: fb1fc896bcfa4342820a0be781cb4854
+run_name: delightful-carp-388
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798794323
+status: 3
+tags: []
+user_id: runner

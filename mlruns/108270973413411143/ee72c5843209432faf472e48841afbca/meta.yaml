@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/ee72c5843209432faf472e48841afbca/artifacts
+end_time: 1777798787953
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: ee72c5843209432faf472e48841afbca
+run_name: big-perch-249
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798787940
+status: 3
+tags: []
+user_id: runner

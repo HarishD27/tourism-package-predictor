@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/692532c157774972b2de64049a02b7d5/artifacts
+end_time: 1777798799863
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 692532c157774972b2de64049a02b7d5
+run_name: nosy-hog-205
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798799839
+status: 3
+tags: []
+user_id: runner

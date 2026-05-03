@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/3f23d38497c14abea2f5bcfc53bbc686/artifacts
+end_time: 1777798789312
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 3f23d38497c14abea2f5bcfc53bbc686
+run_name: merciful-stag-591
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798789297
+status: 3
+tags: []
+user_id: runner

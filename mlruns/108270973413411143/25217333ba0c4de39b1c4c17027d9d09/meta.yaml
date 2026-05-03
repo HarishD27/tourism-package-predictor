@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/25217333ba0c4de39b1c4c17027d9d09/artifacts
+end_time: 1777798794059
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 25217333ba0c4de39b1c4c17027d9d09
+run_name: funny-ape-438
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798794040
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/a225ddc8136345449cca19f15f720b58/artifacts
+end_time: 1777798786190
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: a225ddc8136345449cca19f15f720b58
+run_name: gaudy-quail-348
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798786180
+status: 3
+tags: []
+user_id: runner

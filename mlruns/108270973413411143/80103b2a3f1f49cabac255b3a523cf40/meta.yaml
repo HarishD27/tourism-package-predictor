@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/80103b2a3f1f49cabac255b3a523cf40/artifacts
+end_time: 1777798795271
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 80103b2a3f1f49cabac255b3a523cf40
+run_name: magnificent-jay-645
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798795251
+status: 3
+tags: []
+user_id: runner

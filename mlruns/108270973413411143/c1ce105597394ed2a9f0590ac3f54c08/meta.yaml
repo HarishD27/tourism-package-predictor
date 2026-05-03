@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/c1ce105597394ed2a9f0590ac3f54c08/artifacts
+end_time: 1777798793034
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: c1ce105597394ed2a9f0590ac3f54c08
+run_name: melodic-snake-52
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798793016
+status: 3
+tags: []
+user_id: runner

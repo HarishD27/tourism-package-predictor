@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/f5ae90beebec4f8793d972d7978a62d7/artifacts
+end_time: 1777798793821
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: f5ae90beebec4f8793d972d7978a62d7
+run_name: treasured-vole-274
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798793802
+status: 3
+tags: []
+user_id: runner

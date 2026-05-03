@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/ad26e6159ce64b32b4da93e8d8f75a19/artifacts
+end_time: 1777798800213
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: ad26e6159ce64b32b4da93e8d8f75a19
+run_name: thoughtful-crane-864
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798800189
+status: 3
+tags: []
+user_id: runner

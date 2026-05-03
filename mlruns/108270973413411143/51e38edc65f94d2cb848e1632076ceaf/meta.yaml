@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/51e38edc65f94d2cb848e1632076ceaf/artifacts
+end_time: 1777798794998
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 51e38edc65f94d2cb848e1632076ceaf
+run_name: magnificent-cow-433
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798794977
+status: 3
+tags: []
+user_id: runner

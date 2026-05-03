@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/474a75bea3f94c32ba36b2bb2957d7ab/artifacts
+end_time: 1777798794432
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 474a75bea3f94c32ba36b2bb2957d7ab
+run_name: dapper-conch-309
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798794412
+status: 3
+tags: []
+user_id: runner

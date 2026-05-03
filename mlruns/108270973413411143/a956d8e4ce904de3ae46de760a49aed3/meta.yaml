@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/a956d8e4ce904de3ae46de760a49aed3/artifacts
+end_time: 1777798792578
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: a956d8e4ce904de3ae46de760a49aed3
+run_name: lyrical-jay-224
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798792560
+status: 3
+tags: []
+user_id: runner

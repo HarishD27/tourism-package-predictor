@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/488afab762054ac3ad966321a92a9770/artifacts
+end_time: 1777798786277
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 488afab762054ac3ad966321a92a9770
+run_name: suave-quail-422
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798786266
+status: 3
+tags: []
+user_id: runner

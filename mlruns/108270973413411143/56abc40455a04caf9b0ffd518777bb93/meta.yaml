@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/56abc40455a04caf9b0ffd518777bb93/artifacts
+end_time: 1777798794103
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 56abc40455a04caf9b0ffd518777bb93
+run_name: bedecked-worm-602
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798794083
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/47e255a580d24f81ac2dc5c677c1019e/artifacts
+end_time: 1777798788913
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 47e255a580d24f81ac2dc5c677c1019e
+run_name: gregarious-mink-253
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798788899
+status: 3
+tags: []
+user_id: runner

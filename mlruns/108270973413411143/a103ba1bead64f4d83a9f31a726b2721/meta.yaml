@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/a103ba1bead64f4d83a9f31a726b2721/artifacts
+end_time: 1777798787595
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: a103ba1bead64f4d83a9f31a726b2721
+run_name: luxuriant-hare-900
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798787583
+status: 3
+tags: []
+user_id: runner

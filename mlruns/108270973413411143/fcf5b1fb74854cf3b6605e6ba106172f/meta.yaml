@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/fcf5b1fb74854cf3b6605e6ba106172f/artifacts
+end_time: 1777798787433
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: fcf5b1fb74854cf3b6605e6ba106172f
+run_name: omniscient-kit-945
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798787420
+status: 3
+tags: []
+user_id: runner

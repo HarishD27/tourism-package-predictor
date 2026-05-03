@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/2aa99282731848cca4f639e13ea1c2bd/artifacts
+end_time: 1777798786166
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 2aa99282731848cca4f639e13ea1c2bd
+run_name: gentle-crow-860
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798786156
+status: 3
+tags: []
+user_id: runner

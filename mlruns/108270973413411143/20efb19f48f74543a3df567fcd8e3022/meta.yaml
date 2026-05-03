@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/20efb19f48f74543a3df567fcd8e3022/artifacts
+end_time: 1777798793712
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 20efb19f48f74543a3df567fcd8e3022
+run_name: rumbling-colt-91
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798793692
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/e4e6f827c7754af2af8b4a6842358500/artifacts
+end_time: 1777798793864
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: e4e6f827c7754af2af8b4a6842358500
+run_name: vaunted-cat-585
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798793845
+status: 3
+tags: []
+user_id: runner

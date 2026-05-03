@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/dd7fd3a6d8bb47c9b1e79a254d445b26/artifacts
+end_time: 1777798800376
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: dd7fd3a6d8bb47c9b1e79a254d445b26
+run_name: vaunted-cod-101
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798800352
+status: 3
+tags: []
+user_id: runner

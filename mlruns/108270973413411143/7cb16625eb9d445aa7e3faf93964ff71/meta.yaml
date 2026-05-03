@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/7cb16625eb9d445aa7e3faf93964ff71/artifacts
+end_time: 1777798800294
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 7cb16625eb9d445aa7e3faf93964ff71
+run_name: adorable-doe-186
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798800270
+status: 3
+tags: []
+user_id: runner

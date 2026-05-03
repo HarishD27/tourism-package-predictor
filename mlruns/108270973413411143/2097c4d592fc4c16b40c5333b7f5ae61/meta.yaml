@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/2097c4d592fc4c16b40c5333b7f5ae61/artifacts
+end_time: 1777798793097
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 2097c4d592fc4c16b40c5333b7f5ae61
+run_name: skittish-grub-65
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798793079
+status: 3
+tags: []
+user_id: runner

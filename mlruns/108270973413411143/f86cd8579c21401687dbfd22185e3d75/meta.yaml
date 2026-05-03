@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/f86cd8579c21401687dbfd22185e3d75/artifacts
+end_time: 1777798797468
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: f86cd8579c21401687dbfd22185e3d75
+run_name: skillful-lark-351
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798797446
+status: 3
+tags: []
+user_id: runner

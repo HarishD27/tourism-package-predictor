@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/130ab8cfd85740408477498cd7c019ae/artifacts
+end_time: 1777798790651
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 130ab8cfd85740408477498cd7c019ae
+run_name: receptive-whale-326
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798790635
+status: 3
+tags: []
+user_id: runner

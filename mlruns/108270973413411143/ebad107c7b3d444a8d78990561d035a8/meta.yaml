@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/ebad107c7b3d444a8d78990561d035a8/artifacts
+end_time: 1777798790914
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: ebad107c7b3d444a8d78990561d035a8
+run_name: fearless-snail-193
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798790898
+status: 3
+tags: []
+user_id: runner

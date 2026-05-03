@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/5dcfc13153cb4a4e94dcea16fe5e2d92/artifacts
+end_time: 1777798788832
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 5dcfc13153cb4a4e94dcea16fe5e2d92
+run_name: rumbling-duck-599
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798788818
+status: 3
+tags: []
+user_id: runner

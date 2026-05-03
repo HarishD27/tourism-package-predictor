@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/86541c84603a4803b41492e5d2e0edc9/artifacts
+end_time: 1777798793993
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 86541c84603a4803b41492e5d2e0edc9
+run_name: debonair-bat-727
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798793974
+status: 3
+tags: []
+user_id: runner

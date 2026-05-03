@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/ec3b7db638a3447d9786502d405ec4a0/artifacts
+end_time: 1777798800349
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: ec3b7db638a3447d9786502d405ec4a0
+run_name: traveling-crow-632
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798800324
+status: 3
+tags: []
+user_id: runner

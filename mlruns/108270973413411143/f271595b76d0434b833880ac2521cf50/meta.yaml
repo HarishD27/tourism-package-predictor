@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/f271595b76d0434b833880ac2521cf50/artifacts
+end_time: 1777798796905
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: f271595b76d0434b833880ac2521cf50
+run_name: dashing-calf-141
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798796884
+status: 3
+tags: []
+user_id: runner

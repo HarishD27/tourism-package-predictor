@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/eb70133d9f804d3f886daeac58bf9861/artifacts
+end_time: 1777798786129
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: eb70133d9f804d3f886daeac58bf9861
+run_name: colorful-stoat-784
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798786118
+status: 3
+tags: []
+user_id: runner

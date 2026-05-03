@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/efc37246828f4501a8c78120037c9fb4/artifacts
+end_time: 1777798791409
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: efc37246828f4501a8c78120037c9fb4
+run_name: peaceful-cub-513
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798791392
+status: 3
+tags: []
+user_id: runner

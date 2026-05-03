@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/03a70424b0f240d19ff523d88af44c7d/artifacts
+end_time: 1777798789984
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 03a70424b0f240d19ff523d88af44c7d
+run_name: gaudy-wolf-660
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798789969
+status: 3
+tags: []
+user_id: runner

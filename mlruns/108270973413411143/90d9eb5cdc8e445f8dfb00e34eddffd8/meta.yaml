@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/90d9eb5cdc8e445f8dfb00e34eddffd8/artifacts
+end_time: 1777798798682
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 90d9eb5cdc8e445f8dfb00e34eddffd8
+run_name: shivering-stag-885
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798798658
+status: 3
+tags: []
+user_id: runner

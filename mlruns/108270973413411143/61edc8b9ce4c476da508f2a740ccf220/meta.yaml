@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/61edc8b9ce4c476da508f2a740ccf220/artifacts
+end_time: 1777798789688
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 61edc8b9ce4c476da508f2a740ccf220
+run_name: grandiose-elk-488
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798789673
+status: 3
+tags: []
+user_id: runner

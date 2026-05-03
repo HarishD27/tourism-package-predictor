@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/de0191fb46534f71a8e01493a3e14268/artifacts
+end_time: 1777798789094
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: de0191fb46534f71a8e01493a3e14268
+run_name: enthused-goose-941
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798789080
+status: 3
+tags: []
+user_id: runner

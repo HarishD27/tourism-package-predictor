@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/eea7e790e5644f958b974879fceab452/artifacts
+end_time: 1777798790820
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: eea7e790e5644f958b974879fceab452
+run_name: mercurial-foal-342
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798790803
+status: 3
+tags: []
+user_id: runner

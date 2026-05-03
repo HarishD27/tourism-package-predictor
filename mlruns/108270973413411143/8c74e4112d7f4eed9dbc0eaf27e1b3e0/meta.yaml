@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/8c74e4112d7f4eed9dbc0eaf27e1b3e0/artifacts
+end_time: 1777798789620
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 8c74e4112d7f4eed9dbc0eaf27e1b3e0
+run_name: illustrious-fly-278
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798789605
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/4eadf5dd25d9424f80e0b6215e076602/artifacts
+end_time: 1777798797815
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 4eadf5dd25d9424f80e0b6215e076602
+run_name: puzzled-newt-375
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798797793
+status: 3
+tags: []
+user_id: runner

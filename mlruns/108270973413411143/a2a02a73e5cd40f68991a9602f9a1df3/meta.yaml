@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/a2a02a73e5cd40f68991a9602f9a1df3/artifacts
+end_time: 1777798800240
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: a2a02a73e5cd40f68991a9602f9a1df3
+run_name: fortunate-panda-918
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798800216
+status: 3
+tags: []
+user_id: runner

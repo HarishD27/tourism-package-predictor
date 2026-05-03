@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/af0dc72d1faa40f3ac4f55b689ac4d05/artifacts
+end_time: 1777798786609
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: af0dc72d1faa40f3ac4f55b689ac4d05
+run_name: righteous-grouse-517
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798786598
+status: 3
+tags: []
+user_id: runner

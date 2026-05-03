@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/a83470babd4f4b529c46429625ff53dc/artifacts
+end_time: 1777798792538
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: a83470babd4f4b529c46429625ff53dc
+run_name: respected-seal-438
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798792520
+status: 3
+tags: []
+user_id: runner

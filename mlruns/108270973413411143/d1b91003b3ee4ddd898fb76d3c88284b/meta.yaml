@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/d1b91003b3ee4ddd898fb76d3c88284b/artifacts
+end_time: 1777798788137
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: d1b91003b3ee4ddd898fb76d3c88284b
+run_name: upbeat-sow-570
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798788124
+status: 3
+tags: []
+user_id: runner

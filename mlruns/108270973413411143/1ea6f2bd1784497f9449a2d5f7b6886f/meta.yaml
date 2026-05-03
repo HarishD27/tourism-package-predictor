@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/1ea6f2bd1784497f9449a2d5f7b6886f/artifacts
+end_time: 1777798787076
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 1ea6f2bd1784497f9449a2d5f7b6886f
+run_name: brawny-whale-336
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798787064
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/a0840ddf38df4185ad9e52ee223e9291/artifacts
+end_time: 1777798790269
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: a0840ddf38df4185ad9e52ee223e9291
+run_name: whimsical-ape-917
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798790253
+status: 3
+tags: []
+user_id: runner

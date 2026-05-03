@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/d9a2b013edc54bef97462acf876638b9/artifacts
+end_time: 1777798793885
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: d9a2b013edc54bef97462acf876638b9
+run_name: rogue-snake-673
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798793866
+status: 3
+tags: []
+user_id: runner

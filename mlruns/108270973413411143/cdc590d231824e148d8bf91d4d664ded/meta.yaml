@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/cdc590d231824e148d8bf91d4d664ded/artifacts
+end_time: 1777798800159
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: cdc590d231824e148d8bf91d4d664ded
+run_name: adorable-finch-200
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798800134
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/1272472d0b72495289a34ae5e0097720/artifacts
+end_time: 1777798786252
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 1272472d0b72495289a34ae5e0097720
+run_name: thundering-lynx-257
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798786241
+status: 3
+tags: []
+user_id: runner

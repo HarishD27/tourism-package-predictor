@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/41f33ab055e14954979f7dbf356828e9/artifacts
+end_time: 1777798793118
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 41f33ab055e14954979f7dbf356828e9
+run_name: tasteful-foal-783
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798793100
+status: 3
+tags: []
+user_id: runner

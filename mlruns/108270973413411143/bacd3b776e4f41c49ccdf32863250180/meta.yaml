@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/bacd3b776e4f41c49ccdf32863250180/artifacts
+end_time: 1777798798810
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: bacd3b776e4f41c49ccdf32863250180
+run_name: capable-hound-694
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798798787
+status: 3
+tags: []
+user_id: runner

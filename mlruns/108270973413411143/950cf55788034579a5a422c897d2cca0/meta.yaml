@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/950cf55788034579a5a422c897d2cca0/artifacts
+end_time: 1777798789844
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 950cf55788034579a5a422c897d2cca0
+run_name: sassy-kit-342
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798789829
+status: 3
+tags: []
+user_id: runner

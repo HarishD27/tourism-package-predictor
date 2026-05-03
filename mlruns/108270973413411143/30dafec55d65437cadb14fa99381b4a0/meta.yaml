@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/30dafec55d65437cadb14fa99381b4a0/artifacts
+end_time: 1777798790038
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 30dafec55d65437cadb14fa99381b4a0
+run_name: overjoyed-wren-592
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798790022
+status: 3
+tags: []
+user_id: runner

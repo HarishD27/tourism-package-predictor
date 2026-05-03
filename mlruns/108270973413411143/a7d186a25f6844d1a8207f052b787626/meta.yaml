@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/a7d186a25f6844d1a8207f052b787626/artifacts
+end_time: 1777798794410
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: a7d186a25f6844d1a8207f052b787626
+run_name: zealous-hawk-53
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798794390
+status: 3
+tags: []
+user_id: runner

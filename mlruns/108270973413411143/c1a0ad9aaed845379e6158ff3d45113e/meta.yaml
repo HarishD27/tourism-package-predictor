@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/c1a0ad9aaed845379e6158ff3d45113e/artifacts
+end_time: 1777798786622
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: c1a0ad9aaed845379e6158ff3d45113e
+run_name: languid-skunk-562
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798786611
+status: 3
+tags: []
+user_id: runner

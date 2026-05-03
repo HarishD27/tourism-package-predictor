@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/b8001eb71f2342748de8611cc6a496e4/artifacts
+end_time: 1777798795180
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: b8001eb71f2342748de8611cc6a496e4
+run_name: melodic-goose-155
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798795160
+status: 3
+tags: []
+user_id: runner

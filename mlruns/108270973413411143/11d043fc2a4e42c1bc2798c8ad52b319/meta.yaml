@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/11d043fc2a4e42c1bc2798c8ad52b319/artifacts
+end_time: 1777798786454
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 11d043fc2a4e42c1bc2798c8ad52b319
+run_name: sedate-shrike-936
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798786443
+status: 3
+tags: []
+user_id: runner

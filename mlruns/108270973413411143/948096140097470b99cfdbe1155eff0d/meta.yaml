@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/948096140097470b99cfdbe1155eff0d/artifacts
+end_time: 1777798788623
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 948096140097470b99cfdbe1155eff0d
+run_name: honorable-dove-984
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798788610
+status: 3
+tags: []
+user_id: runner

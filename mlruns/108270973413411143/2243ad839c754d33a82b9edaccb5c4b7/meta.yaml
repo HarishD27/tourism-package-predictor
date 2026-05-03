@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/2243ad839c754d33a82b9edaccb5c4b7/artifacts
+end_time: 1777798787049
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 2243ad839c754d33a82b9edaccb5c4b7
+run_name: hilarious-vole-933
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798787037
+status: 3
+tags: []
+user_id: runner

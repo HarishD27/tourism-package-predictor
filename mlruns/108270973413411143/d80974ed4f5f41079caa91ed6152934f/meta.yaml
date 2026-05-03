@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/d80974ed4f5f41079caa91ed6152934f/artifacts
+end_time: 1777798788090
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: d80974ed4f5f41079caa91ed6152934f
+run_name: righteous-donkey-405
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798788077
+status: 3
+tags: []
+user_id: runner

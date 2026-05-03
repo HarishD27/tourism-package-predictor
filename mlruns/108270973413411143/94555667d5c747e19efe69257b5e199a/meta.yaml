@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/94555667d5c747e19efe69257b5e199a/artifacts
+end_time: 1777798791027
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 94555667d5c747e19efe69257b5e199a
+run_name: casual-dolphin-496
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798791010
+status: 3
+tags: []
+user_id: runner

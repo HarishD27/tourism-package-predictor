@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/8a0e5de318644420b4c07a8dbc6e1229/artifacts
+end_time: 1777798798991
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 8a0e5de318644420b4c07a8dbc6e1229
+run_name: welcoming-flea-4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798798968
+status: 3
+tags: []
+user_id: runner

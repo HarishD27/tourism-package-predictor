@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/d1b6cb605352446080b32a89d30c097b/artifacts
+end_time: 1777798786661
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: d1b6cb605352446080b32a89d30c097b
+run_name: skittish-ant-568
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798786650
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/f21bbfed6497470293907f8f2cc5f0e4/artifacts
+end_time: 1777798793285
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: f21bbfed6497470293907f8f2cc5f0e4
+run_name: gregarious-fish-667
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798793266
+status: 3
+tags: []
+user_id: runner

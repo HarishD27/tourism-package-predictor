@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/373276b2855942bc92289ac9be5a405a/artifacts
+end_time: 1777798793390
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 373276b2855942bc92289ac9be5a405a
+run_name: classy-bass-15
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798793371
+status: 3
+tags: []
+user_id: runner

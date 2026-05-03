@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/1c780c3cb0944214a1da7a0e13da32dd/artifacts
+end_time: 1777798786531
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 1c780c3cb0944214a1da7a0e13da32dd
+run_name: rare-crab-584
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798786520
+status: 3
+tags: []
+user_id: runner

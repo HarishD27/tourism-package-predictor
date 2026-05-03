@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/3d79df8716334d51a8395f9c1e590086/artifacts
+end_time: 1777798799702
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 3d79df8716334d51a8395f9c1e590086
+run_name: rebellious-pig-96
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798799678
+status: 3
+tags: []
+user_id: runner

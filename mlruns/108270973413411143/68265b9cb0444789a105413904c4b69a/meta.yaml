@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/68265b9cb0444789a105413904c4b69a/artifacts
+end_time: 1777798789347
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 68265b9cb0444789a105413904c4b69a
+run_name: delightful-rook-198
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798789332
+status: 3
+tags: []
+user_id: runner

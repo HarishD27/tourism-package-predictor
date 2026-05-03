@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/9fe3525b3ec6495b848366f22829b289/artifacts
+end_time: 1777798793306
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 9fe3525b3ec6495b848366f22829b289
+run_name: rumbling-gull-114
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798793287
+status: 3
+tags: []
+user_id: runner

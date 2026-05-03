@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/d2a6b77093264530a908fc2e1daec3de/artifacts
+end_time: 1777798798836
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: d2a6b77093264530a908fc2e1daec3de
+run_name: bittersweet-elk-748
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798798813
+status: 3
+tags: []
+user_id: runner

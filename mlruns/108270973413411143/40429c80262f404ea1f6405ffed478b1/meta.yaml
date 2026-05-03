@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/40429c80262f404ea1f6405ffed478b1/artifacts
+end_time: 1777798786675
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 40429c80262f404ea1f6405ffed478b1
+run_name: amazing-wren-615
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798786663
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/15a9f2403e834555a308bf6e9ba81e1b/artifacts
+end_time: 1777798793539
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 15a9f2403e834555a308bf6e9ba81e1b
+run_name: debonair-grouse-620
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798793520
+status: 3
+tags: []
+user_id: runner

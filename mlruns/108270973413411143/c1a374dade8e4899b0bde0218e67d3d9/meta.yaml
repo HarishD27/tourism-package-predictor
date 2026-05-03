@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/c1a374dade8e4899b0bde0218e67d3d9/artifacts
+end_time: 1777798796615
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: c1a374dade8e4899b0bde0218e67d3d9
+run_name: dazzling-tern-927
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798796593
+status: 3
+tags: []
+user_id: runner

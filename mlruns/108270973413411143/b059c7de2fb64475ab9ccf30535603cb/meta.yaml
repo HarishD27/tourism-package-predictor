@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/b059c7de2fb64475ab9ccf30535603cb/artifacts
+end_time: 1777798786846
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: b059c7de2fb64475ab9ccf30535603cb
+run_name: flawless-tern-967
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798786835
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/727948f986f54d85a14b45f145d8ce3f/artifacts
+end_time: 1777798797246
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 727948f986f54d85a14b45f145d8ce3f
+run_name: placid-snake-215
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798797224
+status: 3
+tags: []
+user_id: runner

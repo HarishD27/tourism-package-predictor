@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/c28ac443aba1470c8d4a92e559b13597/artifacts
+end_time: 1777798789161
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: c28ac443aba1470c8d4a92e559b13597
+run_name: nosy-loon-306
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798789147
+status: 3
+tags: []
+user_id: runner

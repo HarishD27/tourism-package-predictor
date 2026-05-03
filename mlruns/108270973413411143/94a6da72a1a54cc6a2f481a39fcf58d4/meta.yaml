@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/94a6da72a1a54cc6a2f481a39fcf58d4/artifacts
+end_time: 1777798795943
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 94a6da72a1a54cc6a2f481a39fcf58d4
+run_name: rogue-stoat-548
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798795922
+status: 3
+tags: []
+user_id: runner

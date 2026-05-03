@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/79f50c6336d84348bb1b8bbccada4e13/artifacts
+end_time: 1777798794975
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 79f50c6336d84348bb1b8bbccada4e13
+run_name: enthused-kite-522
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798794955
+status: 3
+tags: []
+user_id: runner

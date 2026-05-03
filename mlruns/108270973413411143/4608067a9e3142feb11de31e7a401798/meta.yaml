@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/4608067a9e3142feb11de31e7a401798/artifacts
+end_time: 1777798788060
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 4608067a9e3142feb11de31e7a401798
+run_name: honorable-hog-495
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798788046
+status: 3
+tags: []
+user_id: runner

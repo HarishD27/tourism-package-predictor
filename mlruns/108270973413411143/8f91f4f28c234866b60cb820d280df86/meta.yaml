@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/8f91f4f28c234866b60cb820d280df86/artifacts
+end_time: 1777798800404
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 8f91f4f28c234866b60cb820d280df86
+run_name: powerful-yak-497
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798800379
+status: 3
+tags: []
+user_id: runner

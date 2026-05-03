@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/8d81b749cd934297b826c3dd4f1b6c82/artifacts
+end_time: 1777798794703
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 8d81b749cd934297b826c3dd4f1b6c82
+run_name: enchanting-vole-209
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798794683
+status: 3
+tags: []
+user_id: runner

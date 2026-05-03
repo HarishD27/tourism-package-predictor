@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/1816dab07d7e41e488fca3dd3c5fff63/artifacts
+end_time: 1777798793604
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 1816dab07d7e41e488fca3dd3c5fff63
+run_name: luxuriant-asp-311
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798793585
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/72d64d1414b94c1cbd3b675b0923e11f/artifacts
+end_time: 1777798793160
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 72d64d1414b94c1cbd3b675b0923e11f
+run_name: treasured-bee-519
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798793141
+status: 3
+tags: []
+user_id: runner

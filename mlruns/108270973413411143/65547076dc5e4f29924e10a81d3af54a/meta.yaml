@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/65547076dc5e4f29924e10a81d3af54a/artifacts
+end_time: 1777798796157
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 65547076dc5e4f29924e10a81d3af54a
+run_name: monumental-rat-920
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798796136
+status: 3
+tags: []
+user_id: runner

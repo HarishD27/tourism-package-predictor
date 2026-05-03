@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/bbd59701c4cf4a64830284e4cb11d2f6/artifacts
+end_time: 1777798797003
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: bbd59701c4cf4a64830284e4cb11d2f6
+run_name: shivering-hen-621
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798796981
+status: 3
+tags: []
+user_id: runner

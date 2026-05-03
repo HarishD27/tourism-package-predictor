@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/9ed2244b5d5f4a94bd1807820f3bae88/artifacts
+end_time: 1777798798195
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 9ed2244b5d5f4a94bd1807820f3bae88
+run_name: gentle-sponge-312
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798798172
+status: 3
+tags: []
+user_id: runner

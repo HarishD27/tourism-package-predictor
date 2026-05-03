@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/3b12ea2d5bb449728e8ee706ae8b0b29/artifacts
+end_time: 1777798799890
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 3b12ea2d5bb449728e8ee706ae8b0b29
+run_name: incongruous-roo-223
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798799866
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/8f658ca913d64773a02e77b737767eac/artifacts
+end_time: 1777798791679
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 8f658ca913d64773a02e77b737767eac
+run_name: nebulous-cow-275
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798791662
+status: 3
+tags: []
+user_id: runner

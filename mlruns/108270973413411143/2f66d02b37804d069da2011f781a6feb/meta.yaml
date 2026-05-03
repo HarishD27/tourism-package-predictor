@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/2f66d02b37804d069da2011f781a6feb/artifacts
+end_time: 1777798787463
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 2f66d02b37804d069da2011f781a6feb
+run_name: colorful-ox-307
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798787450
+status: 3
+tags: []
+user_id: runner

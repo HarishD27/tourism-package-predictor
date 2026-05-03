@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/b59b35c0d28941fc81f358166f730198/artifacts
+end_time: 1777798787610
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: b59b35c0d28941fc81f358166f730198
+run_name: chill-penguin-945
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798787597
+status: 3
+tags: []
+user_id: runner

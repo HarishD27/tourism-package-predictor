@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/42f8fea327bc497c827852cca0a21c87/artifacts
+end_time: 1777798787878
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 42f8fea327bc497c827852cca0a21c87
+run_name: delicate-conch-602
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798787865
+status: 3
+tags: []
+user_id: runner

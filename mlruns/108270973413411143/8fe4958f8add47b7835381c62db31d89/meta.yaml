@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/8fe4958f8add47b7835381c62db31d89/artifacts
+end_time: 1777798790801
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 8fe4958f8add47b7835381c62db31d89
+run_name: victorious-fawn-291
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798790785
+status: 3
+tags: []
+user_id: runner

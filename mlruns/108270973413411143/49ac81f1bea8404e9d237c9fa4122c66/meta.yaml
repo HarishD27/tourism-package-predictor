@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/49ac81f1bea8404e9d237c9fa4122c66/artifacts
+end_time: 1777798793733
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 49ac81f1bea8404e9d237c9fa4122c66
+run_name: amazing-calf-735
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798793714
+status: 3
+tags: []
+user_id: runner

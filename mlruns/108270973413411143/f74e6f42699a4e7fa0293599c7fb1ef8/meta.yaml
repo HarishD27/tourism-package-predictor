@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/f74e6f42699a4e7fa0293599c7fb1ef8/artifacts
+end_time: 1777798798373
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: f74e6f42699a4e7fa0293599c7fb1ef8
+run_name: gregarious-lark-749
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798798351
+status: 3
+tags: []
+user_id: runner

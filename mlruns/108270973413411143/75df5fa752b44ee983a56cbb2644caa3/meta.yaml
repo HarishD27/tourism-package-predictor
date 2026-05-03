@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/75df5fa752b44ee983a56cbb2644caa3/artifacts
+end_time: 1777798790395
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 75df5fa752b44ee983a56cbb2644caa3
+run_name: learned-midge-300
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798790379
+status: 3
+tags: []
+user_id: runner

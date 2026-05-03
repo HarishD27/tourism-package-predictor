@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/ad91555a992a42da954c550305ccb80c/artifacts
+end_time: 1777798795525
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: ad91555a992a42da954c550305ccb80c
+run_name: puzzled-sloth-363
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798795505
+status: 3
+tags: []
+user_id: runner

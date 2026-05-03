@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/12190da969d14a8cb274f89862fb0f3f/artifacts
+end_time: 1777798794929
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 12190da969d14a8cb274f89862fb0f3f
+run_name: gregarious-bat-598
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777798794909
+status: 3
+tags: []
+user_id: runner
