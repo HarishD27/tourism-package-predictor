@@ -1,0 +1,60 @@
+name: Tourism Package MLOps Pipeline
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  ml-pipeline:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Step 1: Checkout the repository code
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      # Step 2: Set up Python environment
+      - name: Set Up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.9"
+
+      # Step 3: Install dependencies
+      - name: Install Dependencies
+        run: pip install -r tourism_package/requirements.txt
+
+      # Step 4: Register the dataset on Hugging Face
+      - name: Data Registration
+        env:
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
+        run: python tourism_package/model_building/data_register.py
+
+      # Step 5: Data preparation - clean, split, and upload train/test sets
+      - name: Data Preparation
+        env:
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
+        run: python tourism_package/model_building/prep.py
+
+      # Step 6: Model training with MLflow tracking and upload best model to HF
+      - name: Model Training
+        env:
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
+        run: python tourism_package/model_building/train.py
+
+      # Step 7: Deploy Streamlit app to Hugging Face Space
+      - name: Host Application on Hugging Face Space
+        env:
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
+        run: python tourism_package/hosting/hosting.py
+
+      # Step 8: Commit and push any generated artifacts back to main branch
+      - name: Push Updates to Main Branch
+        run: |
+          git config --global user.email "harishdhanumuri@gmail.com"
+          git config --global user.name "HarishD27"
+          git add .
+          git diff --cached --quiet || git commit -m "Auto-update: pipeline artifacts [skip ci]"
+          git push origin main
+        env:
+          GITHUB_TOKEN: ${{ secrets.TOKEN }}
