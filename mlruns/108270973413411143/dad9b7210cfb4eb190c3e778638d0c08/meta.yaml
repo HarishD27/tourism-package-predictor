@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/dad9b7210cfb4eb190c3e778638d0c08/artifacts
+end_time: 1777802396128
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: dad9b7210cfb4eb190c3e778638d0c08
+run_name: popular-moose-568
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802396093
+status: 3
+tags: []
+user_id: runner

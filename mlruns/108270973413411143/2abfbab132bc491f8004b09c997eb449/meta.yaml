@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/2abfbab132bc491f8004b09c997eb449/artifacts
+end_time: 1777802392297
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 2abfbab132bc491f8004b09c997eb449
+run_name: welcoming-doe-780
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802392264
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/3cbf60574ea5498d8f3c698ba2b3a2d4/artifacts
+end_time: 1777802379399
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 3cbf60574ea5498d8f3c698ba2b3a2d4
+run_name: powerful-toad-791
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802379374
+status: 3
+tags: []
+user_id: runner

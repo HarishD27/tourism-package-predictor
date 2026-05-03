@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/69f73596ae4a4cb2b2ece2ec76a64a99/artifacts
+end_time: 1777802380183
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 69f73596ae4a4cb2b2ece2ec76a64a99
+run_name: brawny-sloth-788
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802380157
+status: 3
+tags: []
+user_id: runner

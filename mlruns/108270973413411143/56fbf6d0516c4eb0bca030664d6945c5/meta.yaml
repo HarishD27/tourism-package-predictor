@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/56fbf6d0516c4eb0bca030664d6945c5/artifacts
+end_time: 1777802403708
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 56fbf6d0516c4eb0bca030664d6945c5
+run_name: gregarious-moose-741
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802403669
+status: 3
+tags: []
+user_id: runner

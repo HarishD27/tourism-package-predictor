@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/3b3701d3f8154cc49b6221463b2b03f8/artifacts
+end_time: 1777802404920
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 3b3701d3f8154cc49b6221463b2b03f8
+run_name: gaudy-vole-840
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802404880
+status: 3
+tags: []
+user_id: runner

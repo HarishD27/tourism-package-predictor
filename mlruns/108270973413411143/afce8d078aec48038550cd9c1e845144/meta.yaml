@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/afce8d078aec48038550cd9c1e845144/artifacts
+end_time: 1777802384774
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: afce8d078aec48038550cd9c1e845144
+run_name: upset-bat-706
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802384746
+status: 3
+tags: []
+user_id: runner

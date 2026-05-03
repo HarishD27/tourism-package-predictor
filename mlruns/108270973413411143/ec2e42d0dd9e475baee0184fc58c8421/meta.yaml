@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/ec2e42d0dd9e475baee0184fc58c8421/artifacts
+end_time: 1777802391929
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: ec2e42d0dd9e475baee0184fc58c8421
+run_name: intrigued-fly-382
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802391896
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/86a70a212b3d488083b5a07dc0a71678/artifacts
+end_time: 1777802391820
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 86a70a212b3d488083b5a07dc0a71678
+run_name: colorful-gull-510
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802391787
+status: 3
+tags: []
+user_id: runner

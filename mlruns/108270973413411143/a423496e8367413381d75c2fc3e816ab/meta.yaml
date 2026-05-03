@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/a423496e8367413381d75c2fc3e816ab/artifacts
+end_time: 1777802381526
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: a423496e8367413381d75c2fc3e816ab
+run_name: inquisitive-loon-674
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802381500
+status: 3
+tags: []
+user_id: runner

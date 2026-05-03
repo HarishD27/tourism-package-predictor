@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/2a2c85e4abd24c4b8e7bdbafaa9423ff/artifacts
+end_time: 1777802398279
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 2a2c85e4abd24c4b8e7bdbafaa9423ff
+run_name: rogue-rook-151
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802398242
+status: 3
+tags: []
+user_id: runner

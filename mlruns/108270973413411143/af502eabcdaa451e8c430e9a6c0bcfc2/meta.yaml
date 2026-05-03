@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/af502eabcdaa451e8c430e9a6c0bcfc2/artifacts
+end_time: 1777802400857
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: af502eabcdaa451e8c430e9a6c0bcfc2
+run_name: colorful-calf-664
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802400819
+status: 3
+tags: []
+user_id: runner

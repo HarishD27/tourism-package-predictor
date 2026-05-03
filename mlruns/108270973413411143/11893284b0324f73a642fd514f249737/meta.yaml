@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/11893284b0324f73a642fd514f249737/artifacts
+end_time: 1777802383850
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 11893284b0324f73a642fd514f249737
+run_name: unruly-asp-288
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802383822
+status: 3
+tags: []
+user_id: runner

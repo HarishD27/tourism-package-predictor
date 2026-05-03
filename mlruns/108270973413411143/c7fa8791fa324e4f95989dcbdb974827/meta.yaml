@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/c7fa8791fa324e4f95989dcbdb974827/artifacts
+end_time: 1777802381467
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: c7fa8791fa324e4f95989dcbdb974827
+run_name: popular-deer-839
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802381440
+status: 3
+tags: []
+user_id: runner

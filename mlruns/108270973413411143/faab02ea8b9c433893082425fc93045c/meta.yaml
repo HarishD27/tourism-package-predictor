@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/faab02ea8b9c433893082425fc93045c/artifacts
+end_time: 1777802402863
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: faab02ea8b9c433893082425fc93045c
+run_name: dapper-elk-425
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802402824
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/c40f7a5530ac4259853071c587c1805a/artifacts
+end_time: 1777802393488
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: c40f7a5530ac4259853071c587c1805a
+run_name: orderly-kite-265
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802393455
+status: 3
+tags: []
+user_id: runner

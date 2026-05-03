@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/4803e9553af14496be6cd51e3932a382/artifacts
+end_time: 1777802404573
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 4803e9553af14496be6cd51e3932a382
+run_name: dazzling-mule-178
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802404534
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/e910716a81aa4ef8bd0844b52909cb28/artifacts
+end_time: 1777802389313
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: e910716a81aa4ef8bd0844b52909cb28
+run_name: carefree-lark-586
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802389282
+status: 3
+tags: []
+user_id: runner

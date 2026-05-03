@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/640d240922f54e98bd21e6d1e63c8ca3/artifacts
+end_time: 1777802380302
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 640d240922f54e98bd21e6d1e63c8ca3
+run_name: receptive-dove-222
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802380275
+status: 3
+tags: []
+user_id: runner

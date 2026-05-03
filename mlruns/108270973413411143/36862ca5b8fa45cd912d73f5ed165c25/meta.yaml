@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/36862ca5b8fa45cd912d73f5ed165c25/artifacts
+end_time: 1777802390806
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 36862ca5b8fa45cd912d73f5ed165c25
+run_name: auspicious-mole-815
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802390773
+status: 3
+tags: []
+user_id: runner

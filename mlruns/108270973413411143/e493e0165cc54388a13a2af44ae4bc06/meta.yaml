@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/e493e0165cc54388a13a2af44ae4bc06/artifacts
+end_time: 1777802405050
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: e493e0165cc54388a13a2af44ae4bc06
+run_name: defiant-penguin-276
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802405010
+status: 3
+tags: []
+user_id: runner

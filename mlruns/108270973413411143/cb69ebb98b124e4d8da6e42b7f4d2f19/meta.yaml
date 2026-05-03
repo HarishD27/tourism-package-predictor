@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/cb69ebb98b124e4d8da6e42b7f4d2f19/artifacts
+end_time: 1777802397200
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: cb69ebb98b124e4d8da6e42b7f4d2f19
+run_name: calm-crow-457
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802397164
+status: 3
+tags: []
+user_id: runner

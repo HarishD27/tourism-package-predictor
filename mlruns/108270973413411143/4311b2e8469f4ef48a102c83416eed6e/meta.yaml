@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/4311b2e8469f4ef48a102c83416eed6e/artifacts
+end_time: 1777802386750
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 4311b2e8469f4ef48a102c83416eed6e
+run_name: rogue-asp-331
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802386720
+status: 3
+tags: []
+user_id: runner

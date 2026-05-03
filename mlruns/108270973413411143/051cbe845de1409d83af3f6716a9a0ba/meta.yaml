@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/051cbe845de1409d83af3f6716a9a0ba/artifacts
+end_time: 1777802385196
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 051cbe845de1409d83af3f6716a9a0ba
+run_name: smiling-dolphin-966
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802385166
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/70febeb592b646ca82a088b7aea9f54b/artifacts
+end_time: 1777802385066
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 70febeb592b646ca82a088b7aea9f54b
+run_name: bemused-ox-565
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802385036
+status: 3
+tags: []
+user_id: runner

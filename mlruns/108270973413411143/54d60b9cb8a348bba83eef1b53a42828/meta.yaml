@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/54d60b9cb8a348bba83eef1b53a42828/artifacts
+end_time: 1777802380361
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 54d60b9cb8a348bba83eef1b53a42828
+run_name: kindly-bird-86
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802380334
+status: 3
+tags: []
+user_id: runner

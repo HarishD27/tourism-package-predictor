@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/ffcf934f7d0b4d2aafc1977513a8df14/artifacts
+end_time: 1777802388687
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: ffcf934f7d0b4d2aafc1977513a8df14
+run_name: delicate-robin-530
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802388656
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/c0b37bd970b74c32b5fe8b63869c5783/artifacts
+end_time: 1777802388860
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: c0b37bd970b74c32b5fe8b63869c5783
+run_name: thundering-panda-435
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802388829
+status: 3
+tags: []
+user_id: runner

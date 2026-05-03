@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/180060293dbb487db41f9fab5b3a5294/artifacts
+end_time: 1777802383066
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 180060293dbb487db41f9fab5b3a5294
+run_name: bright-steed-112
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802383037
+status: 3
+tags: []
+user_id: runner

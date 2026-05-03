@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/72783b8f7b9f4200aa5297de12ed27dd/artifacts
+end_time: 1777802383881
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 72783b8f7b9f4200aa5297de12ed27dd
+run_name: stylish-wren-585
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802383853
+status: 3
+tags: []
+user_id: runner

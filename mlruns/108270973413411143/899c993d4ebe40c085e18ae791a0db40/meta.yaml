@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/899c993d4ebe40c085e18ae791a0db40/artifacts
+end_time: 1777802394508
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 899c993d4ebe40c085e18ae791a0db40
+run_name: bittersweet-cat-104
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802394473
+status: 3
+tags: []
+user_id: runner

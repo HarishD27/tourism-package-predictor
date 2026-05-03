@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/06ca78f93e714504bed00fa53bcf80b6/artifacts
+end_time: 1777802404304
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 06ca78f93e714504bed00fa53bcf80b6
+run_name: polite-kite-666
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802404265
+status: 3
+tags: []
+user_id: runner

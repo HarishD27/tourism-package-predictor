@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/6bb4a53b3f544d0e939f3d74d711ea6f/artifacts
+end_time: 1777802399534
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 6bb4a53b3f544d0e939f3d74d711ea6f
+run_name: salty-cat-876
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802399497
+status: 3
+tags: []
+user_id: runner

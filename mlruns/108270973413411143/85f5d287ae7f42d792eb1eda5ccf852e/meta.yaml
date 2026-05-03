@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/85f5d287ae7f42d792eb1eda5ccf852e/artifacts
+end_time: 1777802399125
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 85f5d287ae7f42d792eb1eda5ccf852e
+run_name: capable-boar-197
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802399089
+status: 3
+tags: []
+user_id: runner

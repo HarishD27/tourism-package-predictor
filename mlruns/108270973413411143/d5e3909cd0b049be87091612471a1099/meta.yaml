@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/d5e3909cd0b049be87091612471a1099/artifacts
+end_time: 1777802383976
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: d5e3909cd0b049be87091612471a1099
+run_name: nimble-grub-404
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802383948
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/aed93cc088d44c36a568aba7456f9c74/artifacts
+end_time: 1777802386649
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: aed93cc088d44c36a568aba7456f9c74
+run_name: amusing-hound-411
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802386619
+status: 3
+tags: []
+user_id: runner

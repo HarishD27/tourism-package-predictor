@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/ff68d67e81374107896e342d42cc97d9/artifacts
+end_time: 1777802381406
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: ff68d67e81374107896e342d42cc97d9
+run_name: enchanting-elk-78
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802381379
+status: 3
+tags: []
+user_id: runner

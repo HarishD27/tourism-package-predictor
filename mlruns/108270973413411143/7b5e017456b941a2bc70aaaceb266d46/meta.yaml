@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/7b5e017456b941a2bc70aaaceb266d46/artifacts
+end_time: 1777802401851
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 7b5e017456b941a2bc70aaaceb266d46
+run_name: hilarious-newt-88
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802401813
+status: 3
+tags: []
+user_id: runner

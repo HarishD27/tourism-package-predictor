@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/6624fc50a1444c1a94d645b9a5a9a742/artifacts
+end_time: 1777802386918
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 6624fc50a1444c1a94d645b9a5a9a742
+run_name: grandiose-rat-23
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802386888
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/bab9cf95b1194ba49a42ad91ed019528/artifacts
+end_time: 1777802391384
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: bab9cf95b1194ba49a42ad91ed019528
+run_name: treasured-midge-158
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802391352
+status: 3
+tags: []
+user_id: runner

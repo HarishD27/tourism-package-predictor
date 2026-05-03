@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/60dfe026fb6042feadb9291e64a0ad19/artifacts
+end_time: 1777802382537
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 60dfe026fb6042feadb9291e64a0ad19
+run_name: dazzling-snake-771
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802382509
+status: 3
+tags: []
+user_id: runner

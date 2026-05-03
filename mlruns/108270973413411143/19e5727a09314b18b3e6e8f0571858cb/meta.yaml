@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/19e5727a09314b18b3e6e8f0571858cb/artifacts
+end_time: 1777802380600
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 19e5727a09314b18b3e6e8f0571858cb
+run_name: overjoyed-whale-744
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802380571
+status: 3
+tags: []
+user_id: runner

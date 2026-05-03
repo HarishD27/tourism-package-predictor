@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/f6a37e9356af4bfeba58d04b165dbd83/artifacts
+end_time: 1777802389103
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: f6a37e9356af4bfeba58d04b165dbd83
+run_name: orderly-stork-811
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802389071
+status: 3
+tags: []
+user_id: runner

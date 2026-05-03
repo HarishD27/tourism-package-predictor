@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/6bc6fc06e16844259e71dde252f78429/artifacts
+end_time: 1777802387390
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 6bc6fc06e16844259e71dde252f78429
+run_name: serious-hen-42
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802387359
+status: 3
+tags: []
+user_id: runner

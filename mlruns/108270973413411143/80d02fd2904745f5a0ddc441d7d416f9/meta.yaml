@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/80d02fd2904745f5a0ddc441d7d416f9/artifacts
+end_time: 1777802399903
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 80d02fd2904745f5a0ddc441d7d416f9
+run_name: honorable-tern-521
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802399866
+status: 3
+tags: []
+user_id: runner

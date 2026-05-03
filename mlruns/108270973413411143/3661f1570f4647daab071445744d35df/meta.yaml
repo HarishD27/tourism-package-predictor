@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/3661f1570f4647daab071445744d35df/artifacts
+end_time: 1777802392631
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 3661f1570f4647daab071445744d35df
+run_name: likeable-hare-652
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802392598
+status: 3
+tags: []
+user_id: runner

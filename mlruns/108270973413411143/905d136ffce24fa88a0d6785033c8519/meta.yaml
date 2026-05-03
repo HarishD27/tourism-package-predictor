@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/905d136ffce24fa88a0d6785033c8519/artifacts
+end_time: 1777802382013
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 905d136ffce24fa88a0d6785033c8519
+run_name: classy-doe-516
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802381985
+status: 3
+tags: []
+user_id: runner

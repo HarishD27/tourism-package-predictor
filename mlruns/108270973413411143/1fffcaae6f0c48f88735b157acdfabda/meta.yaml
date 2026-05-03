@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/1fffcaae6f0c48f88735b157acdfabda/artifacts
+end_time: 1777802401685
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 1fffcaae6f0c48f88735b157acdfabda
+run_name: masked-mole-735
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802401647
+status: 3
+tags: []
+user_id: runner

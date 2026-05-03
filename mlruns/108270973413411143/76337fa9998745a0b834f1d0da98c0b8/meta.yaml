@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/76337fa9998745a0b834f1d0da98c0b8/artifacts
+end_time: 1777802393153
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 76337fa9998745a0b834f1d0da98c0b8
+run_name: nebulous-crane-196
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802393119
+status: 3
+tags: []
+user_id: runner

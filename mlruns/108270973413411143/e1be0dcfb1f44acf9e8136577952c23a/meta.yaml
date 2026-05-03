@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/e1be0dcfb1f44acf9e8136577952c23a/artifacts
+end_time: 1777802393526
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: e1be0dcfb1f44acf9e8136577952c23a
+run_name: thundering-sow-569
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802393492
+status: 3
+tags: []
+user_id: runner

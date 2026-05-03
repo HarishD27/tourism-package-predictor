@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/1b61aa63f2164a209041226f14f78793/artifacts
+end_time: 1777802392371
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 1b61aa63f2164a209041226f14f78793
+run_name: aged-panda-167
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802392338
+status: 3
+tags: []
+user_id: runner

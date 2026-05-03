@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/5ca7cb6e669446c0958fabe3f2ee2e9f/artifacts
+end_time: 1777802403454
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 5ca7cb6e669446c0958fabe3f2ee2e9f
+run_name: redolent-bass-265
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802403416
+status: 3
+tags: []
+user_id: runner

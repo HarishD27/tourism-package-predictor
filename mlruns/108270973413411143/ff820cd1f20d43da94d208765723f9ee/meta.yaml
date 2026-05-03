@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/ff820cd1f20d43da94d208765723f9ee/artifacts
+end_time: 1777802402820
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: ff820cd1f20d43da94d208765723f9ee
+run_name: zealous-bird-529
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802402782
+status: 3
+tags: []
+user_id: runner

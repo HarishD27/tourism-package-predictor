@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/eb1c8148714146b7aec695e007a96259/artifacts
+end_time: 1777802397716
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: eb1c8148714146b7aec695e007a96259
+run_name: bright-wolf-122
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802397680
+status: 3
+tags: []
+user_id: runner

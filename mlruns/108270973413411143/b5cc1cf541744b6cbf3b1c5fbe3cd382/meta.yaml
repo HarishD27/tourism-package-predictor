@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/b5cc1cf541744b6cbf3b1c5fbe3cd382/artifacts
+end_time: 1777802383285
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: b5cc1cf541744b6cbf3b1c5fbe3cd382
+run_name: traveling-yak-767
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802383257
+status: 3
+tags: []
+user_id: runner

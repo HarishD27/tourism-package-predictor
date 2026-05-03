@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/cda9a9d7827648bea5d6542dc16876c6/artifacts
+end_time: 1777802397477
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: cda9a9d7827648bea5d6542dc16876c6
+run_name: painted-snipe-889
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802397441
+status: 3
+tags: []
+user_id: runner

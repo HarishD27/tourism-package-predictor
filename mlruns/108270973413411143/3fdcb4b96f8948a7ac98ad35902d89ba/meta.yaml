@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/3fdcb4b96f8948a7ac98ad35902d89ba/artifacts
+end_time: 1777802381107
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 3fdcb4b96f8948a7ac98ad35902d89ba
+run_name: bouncy-midge-380
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802381080
+status: 3
+tags: []
+user_id: runner

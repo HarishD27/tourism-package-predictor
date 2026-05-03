@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/40a5d55411074ea0a56c0f68390764d6/artifacts
+end_time: 1777802390268
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 40a5d55411074ea0a56c0f68390764d6
+run_name: dapper-ram-491
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802390236
+status: 3
+tags: []
+user_id: runner

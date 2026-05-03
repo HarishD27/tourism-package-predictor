@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/291d04708a214175bda158a70c2029c8/artifacts
+end_time: 1777802390554
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 291d04708a214175bda158a70c2029c8
+run_name: brawny-hog-271
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802390522
+status: 3
+tags: []
+user_id: runner

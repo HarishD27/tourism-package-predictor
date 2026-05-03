@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/e25955ab23ca4291b62592b3ad5112d5/artifacts
+end_time: 1777802398720
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: e25955ab23ca4291b62592b3ad5112d5
+run_name: resilient-snipe-704
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802398683
+status: 3
+tags: []
+user_id: runner

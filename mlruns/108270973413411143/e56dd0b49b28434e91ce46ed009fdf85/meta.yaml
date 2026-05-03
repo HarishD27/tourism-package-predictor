@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/e56dd0b49b28434e91ce46ed009fdf85/artifacts
+end_time: 1777802400729
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: e56dd0b49b28434e91ce46ed009fdf85
+run_name: amusing-snipe-788
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802400692
+status: 3
+tags: []
+user_id: runner

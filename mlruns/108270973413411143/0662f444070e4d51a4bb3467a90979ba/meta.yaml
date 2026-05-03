@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/0662f444070e4d51a4bb3467a90979ba/artifacts
+end_time: 1777802401560
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 0662f444070e4d51a4bb3467a90979ba
+run_name: lyrical-grub-366
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802401523
+status: 3
+tags: []
+user_id: runner

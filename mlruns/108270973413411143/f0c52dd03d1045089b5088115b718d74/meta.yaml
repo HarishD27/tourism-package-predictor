@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/f0c52dd03d1045089b5088115b718d74/artifacts
+end_time: 1777802390518
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: f0c52dd03d1045089b5088115b718d74
+run_name: stately-sponge-239
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802390486
+status: 3
+tags: []
+user_id: runner

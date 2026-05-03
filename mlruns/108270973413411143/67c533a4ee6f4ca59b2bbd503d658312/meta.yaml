@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/67c533a4ee6f4ca59b2bbd503d658312/artifacts
+end_time: 1777802390090
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 67c533a4ee6f4ca59b2bbd503d658312
+run_name: spiffy-snake-373
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802390058
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/82953e7261b442ad893f400626b9e6bd/artifacts
+end_time: 1777802380508
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 82953e7261b442ad893f400626b9e6bd
+run_name: merciful-fly-482
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802380482
+status: 3
+tags: []
+user_id: runner

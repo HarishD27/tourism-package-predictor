@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/153552391b064d0f9153fe937e3c9e98/artifacts
+end_time: 1777802389174
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 153552391b064d0f9153fe937e3c9e98
+run_name: marvelous-goose-141
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802389142
+status: 3
+tags: []
+user_id: runner

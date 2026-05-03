@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/0aec6b3f6ddb4a64adb6f6da7909003e/artifacts
+end_time: 1777802397239
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 0aec6b3f6ddb4a64adb6f6da7909003e
+run_name: wistful-skunk-227
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802397204
+status: 3
+tags: []
+user_id: runner

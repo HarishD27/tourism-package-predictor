@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/57cc5acc44ad493f95fad1e7f3805c01/artifacts
+end_time: 1777802386149
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 57cc5acc44ad493f95fad1e7f3805c01
+run_name: unleashed-wolf-370
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802386120
+status: 3
+tags: []
+user_id: runner

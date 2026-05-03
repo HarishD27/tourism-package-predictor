@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/a599f9dc5c5b41eab4bd41fd53feb443/artifacts
+end_time: 1777802395661
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: a599f9dc5c5b41eab4bd41fd53feb443
+run_name: smiling-carp-842
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802395627
+status: 3
+tags: []
+user_id: runner

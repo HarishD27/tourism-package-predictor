@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/ac869315eb644889a608fd55bcada741/artifacts
+end_time: 1777802379862
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: ac869315eb644889a608fd55bcada741
+run_name: funny-gull-730
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802379836
+status: 3
+tags: []
+user_id: runner

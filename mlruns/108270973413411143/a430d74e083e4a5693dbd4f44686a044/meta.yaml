@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/a430d74e083e4a5693dbd4f44686a044/artifacts
+end_time: 1777802384199
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: a430d74e083e4a5693dbd4f44686a044
+run_name: gentle-grouse-600
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802384171
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/ac20f9ea395d4cfd810a8450d6c0e45a/artifacts
+end_time: 1777802389700
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: ac20f9ea395d4cfd810a8450d6c0e45a
+run_name: likeable-pug-874
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802389669
+status: 3
+tags: []
+user_id: runner

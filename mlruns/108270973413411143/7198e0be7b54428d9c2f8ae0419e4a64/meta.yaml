@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/7198e0be7b54428d9c2f8ae0419e4a64/artifacts
+end_time: 1777802379428
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 7198e0be7b54428d9c2f8ae0419e4a64
+run_name: entertaining-yak-153
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802379402
+status: 3
+tags: []
+user_id: runner

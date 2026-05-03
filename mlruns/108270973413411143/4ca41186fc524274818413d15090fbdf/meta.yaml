@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/4ca41186fc524274818413d15090fbdf/artifacts
+end_time: 1777802393190
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 4ca41186fc524274818413d15090fbdf
+run_name: peaceful-seal-756
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802393157
+status: 3
+tags: []
+user_id: runner

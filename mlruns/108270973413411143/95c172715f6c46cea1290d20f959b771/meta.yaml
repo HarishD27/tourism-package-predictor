@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/95c172715f6c46cea1290d20f959b771/artifacts
+end_time: 1777802379688
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 95c172715f6c46cea1290d20f959b771
+run_name: resilient-mole-7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802379662
+status: 3
+tags: []
+user_id: runner

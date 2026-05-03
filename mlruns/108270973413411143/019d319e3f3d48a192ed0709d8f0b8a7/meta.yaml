@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/019d319e3f3d48a192ed0709d8f0b8a7/artifacts
+end_time: 1777802396476
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 019d319e3f3d48a192ed0709d8f0b8a7
+run_name: dapper-robin-175
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802396441
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/4fd8cf22a9d248c1aebb3ed0f72afd1c/artifacts
+end_time: 1777802387593
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 4fd8cf22a9d248c1aebb3ed0f72afd1c
+run_name: dazzling-squid-9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802387563
+status: 3
+tags: []
+user_id: runner

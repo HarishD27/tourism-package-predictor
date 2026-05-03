@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/5fe68e265120435ea21196ce5ea30a6b/artifacts
+end_time: 1777802379252
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 5fe68e265120435ea21196ce5ea30a6b
+run_name: treasured-turtle-126
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802379226
+status: 3
+tags: []
+user_id: runner

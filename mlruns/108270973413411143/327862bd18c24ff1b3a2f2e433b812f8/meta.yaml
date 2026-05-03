@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/327862bd18c24ff1b3a2f2e433b812f8/artifacts
+end_time: 1777802381166
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 327862bd18c24ff1b3a2f2e433b812f8
+run_name: sneaky-steed-641
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802381139
+status: 3
+tags: []
+user_id: runner

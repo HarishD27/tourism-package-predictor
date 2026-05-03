@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/3610a2b6ae1742b1822f0f7b8c9da3d0/artifacts
+end_time: 1777802403623
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 3610a2b6ae1742b1822f0f7b8c9da3d0
+run_name: luxuriant-dog-354
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802403585
+status: 3
+tags: []
+user_id: runner

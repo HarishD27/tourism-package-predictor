@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/125f8701615844f580761b5f86491e0a/artifacts
+end_time: 1777802384615
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 125f8701615844f580761b5f86491e0a
+run_name: wise-trout-779
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802384586
+status: 3
+tags: []
+user_id: runner

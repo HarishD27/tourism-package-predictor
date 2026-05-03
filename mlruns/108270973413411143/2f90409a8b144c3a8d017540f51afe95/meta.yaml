@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/2f90409a8b144c3a8d017540f51afe95/artifacts
+end_time: 1777802386616
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 2f90409a8b144c3a8d017540f51afe95
+run_name: smiling-boar-773
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802386585
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/e0fdfb03db664d99861f389dd7431779/artifacts
+end_time: 1777802402312
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: e0fdfb03db664d99861f389dd7431779
+run_name: rare-fish-282
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802402274
+status: 3
+tags: []
+user_id: runner

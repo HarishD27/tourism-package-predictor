@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/597f19d25fe441df88a170f7d8b792fe/artifacts
+end_time: 1777802404219
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 597f19d25fe441df88a170f7d8b792fe
+run_name: clumsy-mole-953
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802404180
+status: 3
+tags: []
+user_id: runner

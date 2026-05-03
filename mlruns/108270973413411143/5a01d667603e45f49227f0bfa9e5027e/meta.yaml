@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/5a01d667603e45f49227f0bfa9e5027e/artifacts
+end_time: 1777802381437
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 5a01d667603e45f49227f0bfa9e5027e
+run_name: resilient-deer-661
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802381409
+status: 3
+tags: []
+user_id: runner

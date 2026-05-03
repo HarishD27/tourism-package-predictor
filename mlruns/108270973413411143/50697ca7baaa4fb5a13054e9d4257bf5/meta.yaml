@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/50697ca7baaa4fb5a13054e9d4257bf5/artifacts
+end_time: 1777802386116
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 50697ca7baaa4fb5a13054e9d4257bf5
+run_name: whimsical-lark-854
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802386087
+status: 3
+tags: []
+user_id: runner

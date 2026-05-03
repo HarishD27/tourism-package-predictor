@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/5cc27e5b79404112b6247465d64b81f3/artifacts
+end_time: 1777802392408
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 5cc27e5b79404112b6247465d64b81f3
+run_name: resilient-fish-267
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802392375
+status: 3
+tags: []
+user_id: runner

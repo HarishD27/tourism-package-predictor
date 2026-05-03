@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/734bfd0de3144141b7174f56cf3ae763/artifacts
+end_time: 1777802394166
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 734bfd0de3144141b7174f56cf3ae763
+run_name: enchanting-snake-426
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802394132
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/346109cde98c4a3ba6ee1a14b58c91e1/artifacts
+end_time: 1777802395508
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 346109cde98c4a3ba6ee1a14b58c91e1
+run_name: angry-croc-888
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802395473
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/df7aadb21fe0479d9d0f2fb92bc570d1/artifacts
+end_time: 1777802395894
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: df7aadb21fe0479d9d0f2fb92bc570d1
+run_name: casual-rook-896
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802395859
+status: 3
+tags: []
+user_id: runner

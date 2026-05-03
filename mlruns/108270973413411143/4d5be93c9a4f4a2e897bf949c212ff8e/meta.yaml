@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/4d5be93c9a4f4a2e897bf949c212ff8e/artifacts
+end_time: 1777802401230
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 4d5be93c9a4f4a2e897bf949c212ff8e
+run_name: blushing-shrimp-285
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802401193
+status: 3
+tags: []
+user_id: runner

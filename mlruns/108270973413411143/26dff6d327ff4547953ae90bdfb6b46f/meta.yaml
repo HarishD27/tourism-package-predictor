@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/26dff6d327ff4547953ae90bdfb6b46f/artifacts
+end_time: 1777802395237
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 26dff6d327ff4547953ae90bdfb6b46f
+run_name: colorful-fowl-533
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802395202
+status: 3
+tags: []
+user_id: runner

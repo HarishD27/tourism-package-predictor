@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/76724959bf544e6bb4444c89e6123a32/artifacts
+end_time: 1777802381860
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 76724959bf544e6bb4444c89e6123a32
+run_name: whimsical-dog-395
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802381833
+status: 3
+tags: []
+user_id: runner

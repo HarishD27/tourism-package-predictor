@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/c8e6526ed9a1496d95c874d322bed260/artifacts
+end_time: 1777802379281
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: c8e6526ed9a1496d95c874d322bed260
+run_name: learned-crane-913
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802379255
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/9b017f71a88541e196ab1362244fbd64/artifacts
+end_time: 1777802380836
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 9b017f71a88541e196ab1362244fbd64
+run_name: rare-bee-467
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802380809
+status: 3
+tags: []
+user_id: runner

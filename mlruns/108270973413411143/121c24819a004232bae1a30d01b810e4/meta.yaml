@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/121c24819a004232bae1a30d01b810e4/artifacts
+end_time: 1777802402693
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 121c24819a004232bae1a30d01b810e4
+run_name: capable-crab-738
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802402655
+status: 3
+tags: []
+user_id: runner

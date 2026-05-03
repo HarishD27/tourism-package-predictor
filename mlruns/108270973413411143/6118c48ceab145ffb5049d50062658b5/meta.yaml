@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/6118c48ceab145ffb5049d50062658b5/artifacts
+end_time: 1777802393863
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 6118c48ceab145ffb5049d50062658b5
+run_name: unequaled-bee-147
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802393829
+status: 3
+tags: []
+user_id: runner

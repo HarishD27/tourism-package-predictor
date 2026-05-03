@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/551deb80883a4a7289891f1993a898ff/artifacts
+end_time: 1777802399453
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 551deb80883a4a7289891f1993a898ff
+run_name: charming-seal-532
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802399416
+status: 3
+tags: []
+user_id: runner

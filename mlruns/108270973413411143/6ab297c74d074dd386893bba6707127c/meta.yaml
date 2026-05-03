@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/6ab297c74d074dd386893bba6707127c/artifacts
+end_time: 1777802381738
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 6ab297c74d074dd386893bba6707127c
+run_name: clean-kite-169
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802381711
+status: 3
+tags: []
+user_id: runner

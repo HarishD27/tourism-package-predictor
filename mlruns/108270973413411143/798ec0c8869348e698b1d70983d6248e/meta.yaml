@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/798ec0c8869348e698b1d70983d6248e/artifacts
+end_time: 1777802399821
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 798ec0c8869348e698b1d70983d6248e
+run_name: debonair-fly-863
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802399784
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/96e45abe951e4a398484f800d03ca3de/artifacts
+end_time: 1777802396555
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 96e45abe951e4a398484f800d03ca3de
+run_name: charming-asp-473
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802396519
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/aeb35da62ead495b84868ac22afefa35/artifacts
+end_time: 1777802391856
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: aeb35da62ead495b84868ac22afefa35
+run_name: flawless-bass-388
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802391823
+status: 3
+tags: []
+user_id: runner

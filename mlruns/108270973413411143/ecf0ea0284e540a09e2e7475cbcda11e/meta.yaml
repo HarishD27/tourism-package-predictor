@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/ecf0ea0284e540a09e2e7475cbcda11e/artifacts
+end_time: 1777802391966
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: ecf0ea0284e540a09e2e7475cbcda11e
+run_name: abrasive-stag-996
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802391933
+status: 3
+tags: []
+user_id: runner

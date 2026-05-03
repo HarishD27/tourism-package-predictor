@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/876d76f107ef4f72a2dc596e6ef73f5d/artifacts
+end_time: 1777802401022
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 876d76f107ef4f72a2dc596e6ef73f5d
+run_name: polite-stag-446
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802400985
+status: 3
+tags: []
+user_id: runner

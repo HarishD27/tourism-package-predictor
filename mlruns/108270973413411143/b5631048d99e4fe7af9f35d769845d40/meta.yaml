@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/b5631048d99e4fe7af9f35d769845d40/artifacts
+end_time: 1777802382320
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: b5631048d99e4fe7af9f35d769845d40
+run_name: bemused-crab-579
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802382292
+status: 3
+tags: []
+user_id: runner

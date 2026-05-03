@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/968ee54094ba419d84389d6e21c7ff66/artifacts
+end_time: 1777802389489
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 968ee54094ba419d84389d6e21c7ff66
+run_name: sassy-moth-125
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802389458
+status: 3
+tags: []
+user_id: runner

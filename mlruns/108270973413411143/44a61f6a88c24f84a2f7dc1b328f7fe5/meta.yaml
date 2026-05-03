@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/44a61f6a88c24f84a2f7dc1b328f7fe5/artifacts
+end_time: 1777802383034
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 44a61f6a88c24f84a2f7dc1b328f7fe5
+run_name: aged-flea-650
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802383006
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/ef45369ba57b4b1889163f8848e38d08/artifacts
+end_time: 1777802393451
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: ef45369ba57b4b1889163f8848e38d08
+run_name: indecisive-finch-449
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802393417
+status: 3
+tags: []
+user_id: runner

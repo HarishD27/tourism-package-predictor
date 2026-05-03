@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/733c3ac8633f4a709dd9c266c59e73c0/artifacts
+end_time: 1777802389735
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 733c3ac8633f4a709dd9c266c59e73c0
+run_name: bustling-croc-384
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802389704
+status: 3
+tags: []
+user_id: runner

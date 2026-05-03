@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/4220fc2afc804dd495829651bef10915/artifacts
+end_time: 1777802404091
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 4220fc2afc804dd495829651bef10915
+run_name: honorable-bear-964
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802404052
+status: 3
+tags: []
+user_id: runner

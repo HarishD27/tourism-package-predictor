@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/9c29ba3b869142c1bd23d0e7f63a2864/artifacts
+end_time: 1777802388756
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 9c29ba3b869142c1bd23d0e7f63a2864
+run_name: overjoyed-snake-570
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802388725
+status: 3
+tags: []
+user_id: runner

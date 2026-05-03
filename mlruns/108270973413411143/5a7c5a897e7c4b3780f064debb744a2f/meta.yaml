@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/5a7c5a897e7c4b3780f064debb744a2f/artifacts
+end_time: 1777802404660
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 5a7c5a897e7c4b3780f064debb744a2f
+run_name: suave-bear-426
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802404621
+status: 3
+tags: []
+user_id: runner

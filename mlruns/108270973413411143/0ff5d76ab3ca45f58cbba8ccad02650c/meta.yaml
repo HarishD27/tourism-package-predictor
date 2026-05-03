@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/0ff5d76ab3ca45f58cbba8ccad02650c/artifacts
+end_time: 1777802398439
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 0ff5d76ab3ca45f58cbba8ccad02650c
+run_name: stylish-frog-2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802398403
+status: 3
+tags: []
+user_id: runner

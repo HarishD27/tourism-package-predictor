@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/8ec0468a16004dedb1d4889a518f9026/artifacts
+end_time: 1777802379485
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 8ec0468a16004dedb1d4889a518f9026
+run_name: bouncy-donkey-166
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802379460
+status: 3
+tags: []
+user_id: runner

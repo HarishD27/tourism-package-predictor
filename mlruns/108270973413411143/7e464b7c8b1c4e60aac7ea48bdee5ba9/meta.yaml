@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/7e464b7c8b1c4e60aac7ea48bdee5ba9/artifacts
+end_time: 1777802383097
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 7e464b7c8b1c4e60aac7ea48bdee5ba9
+run_name: rare-cod-445
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802383069
+status: 3
+tags: []
+user_id: runner

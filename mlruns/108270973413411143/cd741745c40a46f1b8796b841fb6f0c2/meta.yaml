@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/cd741745c40a46f1b8796b841fb6f0c2/artifacts
+end_time: 1777802399328
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: cd741745c40a46f1b8796b841fb6f0c2
+run_name: melodic-hawk-950
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802399291
+status: 3
+tags: []
+user_id: runner

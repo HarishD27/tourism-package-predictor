@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/afef48a94b5d4edf99913d4b2091184c/artifacts
+end_time: 1777802380538
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: afef48a94b5d4edf99913d4b2091184c
+run_name: flawless-worm-780
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802380512
+status: 3
+tags: []
+user_id: runner

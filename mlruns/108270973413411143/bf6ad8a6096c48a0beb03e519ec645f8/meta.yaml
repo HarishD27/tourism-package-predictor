@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/bf6ad8a6096c48a0beb03e519ec645f8/artifacts
+end_time: 1777802383254
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: bf6ad8a6096c48a0beb03e519ec645f8
+run_name: nosy-smelt-4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802383226
+status: 3
+tags: []
+user_id: runner

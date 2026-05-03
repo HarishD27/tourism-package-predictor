@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/ce4ca82ec569478791b365c2ac35d9ce/artifacts
+end_time: 1777802383128
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: ce4ca82ec569478791b365c2ac35d9ce
+run_name: sneaky-bug-420
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802383100
+status: 3
+tags: []
+user_id: runner

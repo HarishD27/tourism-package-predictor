@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/bfab7d828da14058baa7d8a5b5ee1ea3/artifacts
+end_time: 1777802393227
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: bfab7d828da14058baa7d8a5b5ee1ea3
+run_name: bittersweet-calf-157
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802393194
+status: 3
+tags: []
+user_id: runner

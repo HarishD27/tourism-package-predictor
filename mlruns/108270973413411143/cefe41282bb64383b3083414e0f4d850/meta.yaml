@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/cefe41282bb64383b3083414e0f4d850/artifacts
+end_time: 1777802385786
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: cefe41282bb64383b3083414e0f4d850
+run_name: righteous-rat-164
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802385756
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/e933f2629a3640f292fb34288edfe382/artifacts
+end_time: 1777802383473
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: e933f2629a3640f292fb34288edfe382
+run_name: magnificent-fawn-929
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802383446
+status: 3
+tags: []
+user_id: runner

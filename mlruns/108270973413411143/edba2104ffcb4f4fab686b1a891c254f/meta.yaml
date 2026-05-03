@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/edba2104ffcb4f4fab686b1a891c254f/artifacts
+end_time: 1777802391060
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: edba2104ffcb4f4fab686b1a891c254f
+run_name: luminous-dolphin-233
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802391028
+status: 3
+tags: []
+user_id: runner

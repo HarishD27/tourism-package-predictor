@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/bdae65ac990a410caae58ed3b4d28b8f/artifacts
+end_time: 1777802401768
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: bdae65ac990a410caae58ed3b4d28b8f
+run_name: worried-chimp-886
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802401730
+status: 3
+tags: []
+user_id: runner

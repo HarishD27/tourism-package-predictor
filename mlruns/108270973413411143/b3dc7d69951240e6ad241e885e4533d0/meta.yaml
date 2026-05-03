@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/b3dc7d69951240e6ad241e885e4533d0/artifacts
+end_time: 1777802382289
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: b3dc7d69951240e6ad241e885e4533d0
+run_name: exultant-rook-307
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802382261
+status: 3
+tags: []
+user_id: runner

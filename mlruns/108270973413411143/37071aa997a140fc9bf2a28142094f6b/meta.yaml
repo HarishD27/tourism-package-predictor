@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/37071aa997a140fc9bf2a28142094f6b/artifacts
+end_time: 1777802397877
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 37071aa997a140fc9bf2a28142094f6b
+run_name: silent-perch-911
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802397840
+status: 3
+tags: []
+user_id: runner

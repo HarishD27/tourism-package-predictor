@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/df33600a487a4739bfd8e373e9bca1b4/artifacts
+end_time: 1777802392114
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: df33600a487a4739bfd8e373e9bca1b4
+run_name: zealous-penguin-346
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802392080
+status: 3
+tags: []
+user_id: runner

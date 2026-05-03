@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/4b01612855b0417199a3dcb09d6b414d/artifacts
+end_time: 1777802388480
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 4b01612855b0417199a3dcb09d6b414d
+run_name: painted-whale-544
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802388449
+status: 3
+tags: []
+user_id: runner

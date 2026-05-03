@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/fc832984e9b4449db959787c20c81ee7/artifacts
+end_time: 1777802393601
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: fc832984e9b4449db959787c20c81ee7
+run_name: polite-owl-73
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802393567
+status: 3
+tags: []
+user_id: runner

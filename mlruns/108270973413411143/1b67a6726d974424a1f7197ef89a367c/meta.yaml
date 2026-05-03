@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/1b67a6726d974424a1f7197ef89a367c/artifacts
+end_time: 1777802396321
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 1b67a6726d974424a1f7197ef89a367c
+run_name: delightful-swan-493
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802396287
+status: 3
+tags: []
+user_id: runner

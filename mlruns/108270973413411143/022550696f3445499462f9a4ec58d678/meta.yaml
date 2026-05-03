@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/022550696f3445499462f9a4ec58d678/artifacts
+end_time: 1777802386851
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 022550696f3445499462f9a4ec58d678
+run_name: chill-midge-156
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802386820
+status: 3
+tags: []
+user_id: runner

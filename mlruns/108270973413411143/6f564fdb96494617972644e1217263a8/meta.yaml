@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/6f564fdb96494617972644e1217263a8/artifacts
+end_time: 1777802404789
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 6f564fdb96494617972644e1217263a8
+run_name: invincible-loon-88
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802404750
+status: 3
+tags: []
+user_id: runner

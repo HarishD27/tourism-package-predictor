@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/ce0fb17e24d74226ad5fdc1404b4f4c6/artifacts
+end_time: 1777802389560
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: ce0fb17e24d74226ad5fdc1404b4f4c6
+run_name: unleashed-lamb-907
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802389528
+status: 3
+tags: []
+user_id: runner

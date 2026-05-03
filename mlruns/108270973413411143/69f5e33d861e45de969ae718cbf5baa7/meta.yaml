@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/69f5e33d861e45de969ae718cbf5baa7/artifacts
+end_time: 1777802388964
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 69f5e33d861e45de969ae718cbf5baa7
+run_name: glamorous-croc-196
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802388932
+status: 3
+tags: []
+user_id: runner

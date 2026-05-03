@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/dddb0eb8b3a448efafee8931ec7e583d/artifacts
+end_time: 1777802379775
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: dddb0eb8b3a448efafee8931ec7e583d
+run_name: glamorous-shoat-950
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802379749
+status: 3
+tags: []
+user_id: runner

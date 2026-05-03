@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/c1f5cdae926548798afcb26700ea5be8/artifacts
+end_time: 1777802399944
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: c1f5cdae926548798afcb26700ea5be8
+run_name: welcoming-elk-51
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802399907
+status: 3
+tags: []
+user_id: runner

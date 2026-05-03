@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/95a4271cd4fb46b2aa86473e3c1769f2/artifacts
+end_time: 1777802400232
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 95a4271cd4fb46b2aa86473e3c1769f2
+run_name: adaptable-koi-779
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802400195
+status: 3
+tags: []
+user_id: runner

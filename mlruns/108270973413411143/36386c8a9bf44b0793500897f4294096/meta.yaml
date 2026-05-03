@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/36386c8a9bf44b0793500897f4294096/artifacts
+end_time: 1777802382599
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 36386c8a9bf44b0793500897f4294096
+run_name: fearless-ox-632
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802382571
+status: 3
+tags: []
+user_id: runner

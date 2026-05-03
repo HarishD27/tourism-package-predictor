@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/ceafef1c8e9f4debb6b4c2ff8160a34e/artifacts
+end_time: 1777802379804
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: ceafef1c8e9f4debb6b4c2ff8160a34e
+run_name: bittersweet-tern-302
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802379778
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/df0f9ee423254ae4a32a116bb475394f/artifacts
+end_time: 1777802402608
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: df0f9ee423254ae4a32a116bb475394f
+run_name: masked-rook-181
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802402570
+status: 3
+tags: []
+user_id: runner

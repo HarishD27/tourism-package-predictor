@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/893b2d67615040e59cdd014700fe4b3d/artifacts
+end_time: 1777802387154
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 893b2d67615040e59cdd014700fe4b3d
+run_name: caring-toad-454
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802387124
+status: 3
+tags: []
+user_id: runner

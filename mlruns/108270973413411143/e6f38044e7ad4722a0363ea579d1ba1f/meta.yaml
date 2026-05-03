@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/e6f38044e7ad4722a0363ea579d1ba1f/artifacts
+end_time: 1777802405265
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: e6f38044e7ad4722a0363ea579d1ba1f
+run_name: nosy-mink-681
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802405226
+status: 3
+tags: []
+user_id: runner

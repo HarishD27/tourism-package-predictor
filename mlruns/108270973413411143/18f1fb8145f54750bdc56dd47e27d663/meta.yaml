@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/18f1fb8145f54750bdc56dd47e27d663/artifacts
+end_time: 1777802387525
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 18f1fb8145f54750bdc56dd47e27d663
+run_name: flawless-goose-499
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802387495
+status: 3
+tags: []
+user_id: runner

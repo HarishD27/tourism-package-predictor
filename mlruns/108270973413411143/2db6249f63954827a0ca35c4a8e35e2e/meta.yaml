@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/2db6249f63954827a0ca35c4a8e35e2e/artifacts
+end_time: 1777802403919
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 2db6249f63954827a0ca35c4a8e35e2e
+run_name: zealous-elk-861
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802403881
+status: 3
+tags: []
+user_id: runner

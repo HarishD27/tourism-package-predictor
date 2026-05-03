@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/1ba88a10a83c416a937d7236b52003bb/artifacts
+end_time: 1777802381646
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 1ba88a10a83c416a937d7236b52003bb
+run_name: unequaled-snail-973
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802381619
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/0f566153c770447e97f432df5a7ba52e/artifacts
+end_time: 1777802384072
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 0f566153c770447e97f432df5a7ba52e
+run_name: monumental-cat-591
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802384043
+status: 3
+tags: []
+user_id: runner

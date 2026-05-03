@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/eb53915b622949e1a7207c9ac7838bf4/artifacts
+end_time: 1777802391312
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: eb53915b622949e1a7207c9ac7838bf4
+run_name: sedate-finch-452
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802391279
+status: 3
+tags: []
+user_id: runner

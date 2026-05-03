@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/ed3ba1effc534e278314bf31ef17b1f7/artifacts
+end_time: 1777802392817
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: ed3ba1effc534e278314bf31ef17b1f7
+run_name: orderly-squirrel-974
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802392783
+status: 3
+tags: []
+user_id: runner

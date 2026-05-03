@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/a5e5fcb7a4114a6e9c4c290db610f329/artifacts
+end_time: 1777802381921
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: a5e5fcb7a4114a6e9c4c290db610f329
+run_name: unruly-stoat-307
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802381894
+status: 3
+tags: []
+user_id: runner

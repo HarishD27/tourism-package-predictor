@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/760455505d6b48ba9ca69d6c8a1e760c/artifacts
+end_time: 1777802403243
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 760455505d6b48ba9ca69d6c8a1e760c
+run_name: glamorous-hound-316
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802403204
+status: 3
+tags: []
+user_id: runner

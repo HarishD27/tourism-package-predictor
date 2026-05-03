@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/ce0be2d34f64450bb86f20aee8f28f0c/artifacts
+end_time: 1777802390844
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: ce0be2d34f64450bb86f20aee8f28f0c
+run_name: adaptable-foal-96
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802390810
+status: 3
+tags: []
+user_id: runner

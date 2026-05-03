@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/59034c5ac36d47f4ab85b11959eec86c/artifacts
+end_time: 1777802398519
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 59034c5ac36d47f4ab85b11959eec86c
+run_name: carefree-sheep-662
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802398483
+status: 3
+tags: []
+user_id: runner

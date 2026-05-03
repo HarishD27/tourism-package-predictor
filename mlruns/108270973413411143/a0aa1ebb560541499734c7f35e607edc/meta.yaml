@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/a0aa1ebb560541499734c7f35e607edc/artifacts
+end_time: 1777802401271
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: a0aa1ebb560541499734c7f35e607edc
+run_name: dazzling-snail-884
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802401234
+status: 3
+tags: []
+user_id: runner

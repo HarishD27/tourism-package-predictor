@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/a4862b0459d0403aa951fe4600994999/artifacts
+end_time: 1777802380125
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: a4862b0459d0403aa951fe4600994999
+run_name: stylish-conch-935
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802380099
+status: 3
+tags: []
+user_id: runner

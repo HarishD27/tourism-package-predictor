@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/d1959e62bcf24768a60cb10ec65fa344/artifacts
+end_time: 1777802384710
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: d1959e62bcf24768a60cb10ec65fa344
+run_name: whimsical-deer-842
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802384682
+status: 3
+tags: []
+user_id: runner

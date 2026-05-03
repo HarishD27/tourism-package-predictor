@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/d67f58ff78284446ac5e5d9c0e5da969/artifacts
+end_time: 1777802380067
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: d67f58ff78284446ac5e5d9c0e5da969
+run_name: bustling-kit-449
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802380041
+status: 3
+tags: []
+user_id: runner

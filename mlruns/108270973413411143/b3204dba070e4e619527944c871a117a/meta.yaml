@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/b3204dba070e4e619527944c871a117a/artifacts
+end_time: 1777802400026
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: b3204dba070e4e619527944c871a117a
+run_name: amazing-stoat-393
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802399989
+status: 3
+tags: []
+user_id: runner

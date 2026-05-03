@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/3e971e2c781a4ee3b8f64f0699e6ac3c/artifacts
+end_time: 1777802394890
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 3e971e2c781a4ee3b8f64f0699e6ac3c
+run_name: stately-elk-592
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802394855
+status: 3
+tags: []
+user_id: runner

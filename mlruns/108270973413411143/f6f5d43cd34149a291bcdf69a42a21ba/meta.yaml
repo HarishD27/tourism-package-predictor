@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/f6f5d43cd34149a291bcdf69a42a21ba/artifacts
+end_time: 1777802382074
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: f6f5d43cd34149a291bcdf69a42a21ba
+run_name: honorable-worm-738
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802382046
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/8a08715b725c441bb576a83aa5a63632/artifacts
+end_time: 1777802381982
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 8a08715b725c441bb576a83aa5a63632
+run_name: nosy-hare-523
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802381955
+status: 3
+tags: []
+user_id: runner

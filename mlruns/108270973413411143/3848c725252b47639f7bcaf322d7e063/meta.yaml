@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/3848c725252b47639f7bcaf322d7e063/artifacts
+end_time: 1777802387559
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 3848c725252b47639f7bcaf322d7e063
+run_name: unruly-moth-420
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802387529
+status: 3
+tags: []
+user_id: runner

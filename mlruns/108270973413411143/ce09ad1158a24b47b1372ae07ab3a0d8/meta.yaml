@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/ce09ad1158a24b47b1372ae07ab3a0d8/artifacts
+end_time: 1777802394013
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: ce09ad1158a24b47b1372ae07ab3a0d8
+run_name: unleashed-jay-579
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802393979
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/6c472f73c2374df6b45f7e7c3597b4c3/artifacts
+end_time: 1777802400773
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 6c472f73c2374df6b45f7e7c3597b4c3
+run_name: amusing-squid-803
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802400733
+status: 3
+tags: []
+user_id: runner

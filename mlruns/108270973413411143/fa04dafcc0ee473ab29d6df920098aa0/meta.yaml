@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/fa04dafcc0ee473ab29d6df920098aa0/artifacts
+end_time: 1777802388205
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: fa04dafcc0ee473ab29d6df920098aa0
+run_name: gregarious-sheep-99
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802388175
+status: 3
+tags: []
+user_id: runner

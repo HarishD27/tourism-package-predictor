@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/08c40e3253a34d46be637758ff81b015/artifacts
+end_time: 1777802382846
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 08c40e3253a34d46be637758ff81b015
+run_name: invincible-fish-83
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802382818
+status: 3
+tags: []
+user_id: runner

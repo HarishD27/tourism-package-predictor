@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/eb6b0b852f7b498cb32241e137e931f0/artifacts
+end_time: 1777802382691
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: eb6b0b852f7b498cb32241e137e931f0
+run_name: unleashed-snake-857
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802382664
+status: 3
+tags: []
+user_id: runner

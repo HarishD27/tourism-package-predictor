@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/54a289e4199d46fb9c437ebe9e169aab/artifacts
+end_time: 1777802398761
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 54a289e4199d46fb9c437ebe9e169aab
+run_name: orderly-horse-547
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802398724
+status: 3
+tags: []
+user_id: runner

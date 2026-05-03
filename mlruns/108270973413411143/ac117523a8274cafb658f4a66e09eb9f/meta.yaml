@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/ac117523a8274cafb658f4a66e09eb9f/artifacts
+end_time: 1777802402523
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: ac117523a8274cafb658f4a66e09eb9f
+run_name: capricious-trout-276
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802402485
+status: 3
+tags: []
+user_id: runner

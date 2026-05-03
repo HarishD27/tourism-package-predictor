@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/83563ce646b745859adda61fc1bc3c3a/artifacts
+end_time: 1777802405093
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 83563ce646b745859adda61fc1bc3c3a
+run_name: wistful-bear-76
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802405054
+status: 3
+tags: []
+user_id: runner

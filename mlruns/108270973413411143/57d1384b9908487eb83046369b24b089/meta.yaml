@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/57d1384b9908487eb83046369b24b089/artifacts
+end_time: 1777802387087
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 57d1384b9908487eb83046369b24b089
+run_name: likeable-midge-104
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802387057
+status: 3
+tags: []
+user_id: runner

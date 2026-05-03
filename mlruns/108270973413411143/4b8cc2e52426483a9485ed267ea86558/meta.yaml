@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/4b8cc2e52426483a9485ed267ea86558/artifacts
+end_time: 1777802404347
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 4b8cc2e52426483a9485ed267ea86558
+run_name: wistful-mink-92
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802404308
+status: 3
+tags: []
+user_id: runner

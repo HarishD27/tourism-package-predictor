@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/66722fb2a1d043509d70968d61932282/artifacts
+end_time: 1777802398680
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 66722fb2a1d043509d70968d61932282
+run_name: carefree-fly-790
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802398643
+status: 3
+tags: []
+user_id: runner

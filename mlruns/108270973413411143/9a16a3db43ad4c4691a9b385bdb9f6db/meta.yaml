@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/9a16a3db43ad4c4691a9b385bdb9f6db/artifacts
+end_time: 1777802382660
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 9a16a3db43ad4c4691a9b385bdb9f6db
+run_name: ambitious-dog-348
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802382633
+status: 3
+tags: []
+user_id: runner

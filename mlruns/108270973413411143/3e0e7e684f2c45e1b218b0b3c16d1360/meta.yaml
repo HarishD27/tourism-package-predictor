@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/3e0e7e684f2c45e1b218b0b3c16d1360/artifacts
+end_time: 1777802395623
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 3e0e7e684f2c45e1b218b0b3c16d1360
+run_name: suave-sow-246
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802395588
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/f2a6c61bfe4947a89dc3913d1bb6d766/artifacts
+end_time: 1777802394243
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: f2a6c61bfe4947a89dc3913d1bb6d766
+run_name: lyrical-hare-787
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802394209
+status: 3
+tags: []
+user_id: runner

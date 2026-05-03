@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/091f7ee974ee4e1188b7c34c7566843a/artifacts
+end_time: 1777802398199
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 091f7ee974ee4e1188b7c34c7566843a
+run_name: ambitious-perch-995
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802398162
+status: 3
+tags: []
+user_id: runner

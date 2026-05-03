@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/4835ed6b70f54e94b57709d7a4ec8861/artifacts
+end_time: 1777802384519
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 4835ed6b70f54e94b57709d7a4ec8861
+run_name: blushing-mare-750
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802384490
+status: 3
+tags: []
+user_id: runner

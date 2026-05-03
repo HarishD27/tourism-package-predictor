@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/57f293ba3ba04957ad98e44374fd0839/artifacts
+end_time: 1777802402778
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 57f293ba3ba04957ad98e44374fd0839
+run_name: funny-jay-174
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802402739
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/47d98e8658f549cfb46b63d97590c927/artifacts
+end_time: 1777802404876
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 47d98e8658f549cfb46b63d97590c927
+run_name: bedecked-dog-61
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802404836
+status: 3
+tags: []
+user_id: runner

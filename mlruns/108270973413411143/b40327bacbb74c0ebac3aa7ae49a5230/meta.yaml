@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/b40327bacbb74c0ebac3aa7ae49a5230/artifacts
+end_time: 1777802405394
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: b40327bacbb74c0ebac3aa7ae49a5230
+run_name: glamorous-owl-579
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802405355
+status: 3
+tags: []
+user_id: runner

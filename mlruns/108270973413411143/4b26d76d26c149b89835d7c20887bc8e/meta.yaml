@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/4b26d76d26c149b89835d7c20887bc8e/artifacts
+end_time: 1777802385884
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 4b26d76d26c149b89835d7c20887bc8e
+run_name: chill-smelt-162
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802385855
+status: 3
+tags: []
+user_id: runner

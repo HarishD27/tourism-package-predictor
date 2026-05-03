@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/b8e4b818bac74a478cbf7c106758242b/artifacts
+end_time: 1777802381556
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: b8e4b818bac74a478cbf7c106758242b
+run_name: bald-kit-43
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802381530
+status: 3
+tags: []
+user_id: runner

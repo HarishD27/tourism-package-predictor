@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/15a68c9ae8bd4241884f8253283a0aed/artifacts
+end_time: 1777802382506
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 15a68c9ae8bd4241884f8253283a0aed
+run_name: clumsy-hound-155
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802382478
+status: 3
+tags: []
+user_id: runner

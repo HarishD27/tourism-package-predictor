@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/382f27a07eff47b9b5973fc7cf123a70/artifacts
+end_time: 1777802383411
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 382f27a07eff47b9b5973fc7cf123a70
+run_name: loud-squirrel-727
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802383382
+status: 3
+tags: []
+user_id: runner

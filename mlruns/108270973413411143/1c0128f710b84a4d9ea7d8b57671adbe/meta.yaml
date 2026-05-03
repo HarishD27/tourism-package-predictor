@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/1c0128f710b84a4d9ea7d8b57671adbe/artifacts
+end_time: 1777802396673
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 1c0128f710b84a4d9ea7d8b57671adbe
+run_name: carefree-dolphin-802
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802396637
+status: 3
+tags: []
+user_id: runner

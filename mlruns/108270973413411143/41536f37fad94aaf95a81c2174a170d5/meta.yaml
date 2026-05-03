@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/41536f37fad94aaf95a81c2174a170d5/artifacts
+end_time: 1777802395469
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 41536f37fad94aaf95a81c2174a170d5
+run_name: bittersweet-newt-513
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802395434
+status: 3
+tags: []
+user_id: runner

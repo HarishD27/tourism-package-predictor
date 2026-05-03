@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/929a2c1ae7624990b0e8c96f22e1d925/artifacts
+end_time: 1777802400940
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 929a2c1ae7624990b0e8c96f22e1d925
+run_name: illustrious-ram-412
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802400902
+status: 3
+tags: []
+user_id: runner

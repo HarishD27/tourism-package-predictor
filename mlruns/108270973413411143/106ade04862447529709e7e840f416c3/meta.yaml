@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/106ade04862447529709e7e840f416c3/artifacts
+end_time: 1777802387356
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 106ade04862447529709e7e840f416c3
+run_name: debonair-pug-863
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802387325
+status: 3
+tags: []
+user_id: runner

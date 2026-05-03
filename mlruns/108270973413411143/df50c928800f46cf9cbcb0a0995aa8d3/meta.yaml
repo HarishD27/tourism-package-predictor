@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/df50c928800f46cf9cbcb0a0995aa8d3/artifacts
+end_time: 1777802397081
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: df50c928800f46cf9cbcb0a0995aa8d3
+run_name: spiffy-lamb-402
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802397046
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/e3180abb04d24b38ab738bc6efe2b2fd/artifacts
+end_time: 1777802404963
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: e3180abb04d24b38ab738bc6efe2b2fd
+run_name: learned-horse-603
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802404924
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/79f7bc0272384513b3f22c06ed657cf3/artifacts
+end_time: 1777802399780
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 79f7bc0272384513b3f22c06ed657cf3
+run_name: loud-zebra-857
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802399742
+status: 3
+tags: []
+user_id: runner

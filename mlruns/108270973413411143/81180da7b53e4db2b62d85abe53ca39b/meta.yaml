@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/81180da7b53e4db2b62d85abe53ca39b/artifacts
+end_time: 1777802381951
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 81180da7b53e4db2b62d85abe53ca39b
+run_name: dashing-snail-472
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802381924
+status: 3
+tags: []
+user_id: runner

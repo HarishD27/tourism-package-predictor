@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/531d7d90a8144e57a158608dc659fc68/artifacts
+end_time: 1777802389595
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 531d7d90a8144e57a158608dc659fc68
+run_name: bouncy-lamb-202
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802389563
+status: 3
+tags: []
+user_id: runner

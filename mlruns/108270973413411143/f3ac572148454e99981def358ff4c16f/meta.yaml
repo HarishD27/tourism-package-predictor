@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/f3ac572148454e99981def358ff4c16f/artifacts
+end_time: 1777802398399
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: f3ac572148454e99981def358ff4c16f
+run_name: auspicious-eel-168
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802398363
+status: 3
+tags: []
+user_id: runner

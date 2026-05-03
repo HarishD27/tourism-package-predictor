@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/6049ae68e96e4ea7b9871653d253c019/artifacts
+end_time: 1777802400356
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 6049ae68e96e4ea7b9871653d253c019
+run_name: indecisive-skink-515
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802400319
+status: 3
+tags: []
+user_id: runner

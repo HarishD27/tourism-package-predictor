@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/df3c0d4226614390b6e7d17a710796eb/artifacts
+end_time: 1777802394318
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: df3c0d4226614390b6e7d17a710796eb
+run_name: gregarious-vole-885
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802394284
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/fc934dc5fa8b44769ea6416921f8aa8a/artifacts
+end_time: 1777802389771
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: fc934dc5fa8b44769ea6416921f8aa8a
+run_name: fearless-pug-401
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802389739
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/7f3632adf7cb4ce8908e12c5241b388b/artifacts
+end_time: 1777802382444
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 7f3632adf7cb4ce8908e12c5241b388b
+run_name: adorable-skink-652
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802382416
+status: 3
+tags: []
+user_id: runner

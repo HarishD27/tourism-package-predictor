@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/7543638923b041d8bfcbad2fb50a6cdc/artifacts
+end_time: 1777802383159
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 7543638923b041d8bfcbad2fb50a6cdc
+run_name: nosy-turtle-943
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802383131
+status: 3
+tags: []
+user_id: runner

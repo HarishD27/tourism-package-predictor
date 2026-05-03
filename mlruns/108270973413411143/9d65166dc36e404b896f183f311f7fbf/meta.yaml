@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/9d65166dc36e404b896f183f311f7fbf/artifacts
+end_time: 1777802396845
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 9d65166dc36e404b896f183f311f7fbf
+run_name: luminous-eel-759
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802396810
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/1b99e2768bc94b12965f7350e40fa6bf/artifacts
+end_time: 1777802402102
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 1b99e2768bc94b12965f7350e40fa6bf
+run_name: inquisitive-pig-120
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802402064
+status: 3
+tags: []
+user_id: runner

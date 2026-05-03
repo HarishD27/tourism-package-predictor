@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/db7a0970a24c49a0b90d46f270170311/artifacts
+end_time: 1777802395199
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: db7a0970a24c49a0b90d46f270170311
+run_name: upbeat-fly-887
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802395164
+status: 3
+tags: []
+user_id: runner

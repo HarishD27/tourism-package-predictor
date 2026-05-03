@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/7fd3e80f22994e27ab0b2d8177ccf070/artifacts
+end_time: 1777802381046
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 7fd3e80f22994e27ab0b2d8177ccf070
+run_name: luxuriant-grub-219
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802381019
+status: 3
+tags: []
+user_id: runner

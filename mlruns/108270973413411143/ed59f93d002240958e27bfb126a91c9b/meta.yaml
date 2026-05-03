@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/ed59f93d002240958e27bfb126a91c9b/artifacts
+end_time: 1777802390734
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: ed59f93d002240958e27bfb126a91c9b
+run_name: awesome-chimp-785
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802390701
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/a43695fb1829443197960a947a7e3939/artifacts
+end_time: 1777802394699
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: a43695fb1829443197960a947a7e3939
+run_name: bald-croc-751
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802394665
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/648ec9e70c084e67832d3c6554b2f31e/artifacts
+end_time: 1777802400109
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 648ec9e70c084e67832d3c6554b2f31e
+run_name: delightful-horse-930
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802400072
+status: 3
+tags: []
+user_id: runner

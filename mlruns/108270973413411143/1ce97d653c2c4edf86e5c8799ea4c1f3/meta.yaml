@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/1ce97d653c2c4edf86e5c8799ea4c1f3/artifacts
+end_time: 1777802397002
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 1ce97d653c2c4edf86e5c8799ea4c1f3
+run_name: polite-jay-652
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802396966
+status: 3
+tags: []
+user_id: runner

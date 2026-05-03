@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/f7cef7078ff74e74abd3e38c67766213/artifacts
+end_time: 1777802388618
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: f7cef7078ff74e74abd3e38c67766213
+run_name: masked-squirrel-22
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802388587
+status: 3
+tags: []
+user_id: runner

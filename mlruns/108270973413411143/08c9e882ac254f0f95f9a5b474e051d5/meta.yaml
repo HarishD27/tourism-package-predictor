@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/08c9e882ac254f0f95f9a5b474e051d5/artifacts
+end_time: 1777802389842
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 08c9e882ac254f0f95f9a5b474e051d5
+run_name: bald-dove-527
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802389810
+status: 3
+tags: []
+user_id: runner

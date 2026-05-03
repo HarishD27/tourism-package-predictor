@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/b7b7a4c0115c4808918a441f98c60a95/artifacts
+end_time: 1777802402228
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: b7b7a4c0115c4808918a441f98c60a95
+run_name: welcoming-cod-635
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802402191
+status: 3
+tags: []
+user_id: runner

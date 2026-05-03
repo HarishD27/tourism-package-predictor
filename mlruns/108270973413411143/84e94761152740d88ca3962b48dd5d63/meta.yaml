@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/84e94761152740d88ca3962b48dd5d63/artifacts
+end_time: 1777802394090
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 84e94761152740d88ca3962b48dd5d63
+run_name: chill-snipe-705
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802394055
+status: 3
+tags: []
+user_id: runner

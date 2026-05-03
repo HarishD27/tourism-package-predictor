@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/a461a62e3c134af99924f38a2527d6ca/artifacts
+end_time: 1777802385163
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: a461a62e3c134af99924f38a2527d6ca
+run_name: learned-trout-331
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802385134
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/b822198a3f254d179d454034d425cb4f/artifacts
+end_time: 1777802387221
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: b822198a3f254d179d454034d425cb4f
+run_name: receptive-fowl-524
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802387191
+status: 3
+tags: []
+user_id: runner

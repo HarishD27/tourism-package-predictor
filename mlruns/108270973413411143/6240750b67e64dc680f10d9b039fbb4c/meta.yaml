@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/6240750b67e64dc680f10d9b039fbb4c/artifacts
+end_time: 1777802387254
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 6240750b67e64dc680f10d9b039fbb4c
+run_name: bustling-moth-955
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802387224
+status: 3
+tags: []
+user_id: runner

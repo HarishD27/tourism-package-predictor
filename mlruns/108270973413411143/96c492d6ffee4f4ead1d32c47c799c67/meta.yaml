@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/96c492d6ffee4f4ead1d32c47c799c67/artifacts
+end_time: 1777802402438
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 96c492d6ffee4f4ead1d32c47c799c67
+run_name: adorable-shad-120
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802402400
+status: 3
+tags: []
+user_id: runner

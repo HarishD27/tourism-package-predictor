@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/e9d0daaac53b47d084849edd13ab3a0d/artifacts
+end_time: 1777802383191
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: e9d0daaac53b47d084849edd13ab3a0d
+run_name: handsome-midge-984
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802383163
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/e30fc18acd4440368d262ebb2e1496c7/artifacts
+end_time: 1777802386683
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: e30fc18acd4440368d262ebb2e1496c7
+run_name: auspicious-fly-20
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802386653
+status: 3
+tags: []
+user_id: runner

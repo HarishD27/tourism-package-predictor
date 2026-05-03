@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/286c139a3836476f8eaa1bd5a9f35e45/artifacts
+end_time: 1777802401354
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 286c139a3836476f8eaa1bd5a9f35e45
+run_name: classy-fly-90
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802401316
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/674c214d6df54c09b30d798048293a11/artifacts
+end_time: 1777802388549
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 674c214d6df54c09b30d798048293a11
+run_name: treasured-hawk-437
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802388518
+status: 3
+tags: []
+user_id: runner

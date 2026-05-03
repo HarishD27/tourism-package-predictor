@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/cda4b498afc34a79b113dc2cfede8eef/artifacts
+end_time: 1777802386515
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: cda4b498afc34a79b113dc2cfede8eef
+run_name: intrigued-sheep-577
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802386485
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/3c773999eab54420888c22f1400775ac/artifacts
+end_time: 1777802397796
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 3c773999eab54420888c22f1400775ac
+run_name: smiling-shark-341
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802397760
+status: 3
+tags: []
+user_id: runner

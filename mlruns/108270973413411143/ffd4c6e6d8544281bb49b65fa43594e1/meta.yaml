@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/ffd4c6e6d8544281bb49b65fa43594e1/artifacts
+end_time: 1777802404832
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: ffd4c6e6d8544281bb49b65fa43594e1
+run_name: enthused-moth-288
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802404793
+status: 3
+tags: []
+user_id: runner

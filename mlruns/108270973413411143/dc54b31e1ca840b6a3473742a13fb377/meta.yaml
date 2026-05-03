@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/dc54b31e1ca840b6a3473742a13fb377/artifacts
+end_time: 1777802389630
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: dc54b31e1ca840b6a3473742a13fb377
+run_name: legendary-crab-679
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802389598
+status: 3
+tags: []
+user_id: runner

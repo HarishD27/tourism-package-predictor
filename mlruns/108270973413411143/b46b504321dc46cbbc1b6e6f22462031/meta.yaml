@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/b46b504321dc46cbbc1b6e6f22462031/artifacts
+end_time: 1777802393563
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: b46b504321dc46cbbc1b6e6f22462031
+run_name: amazing-worm-788
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802393530
+status: 3
+tags: []
+user_id: runner

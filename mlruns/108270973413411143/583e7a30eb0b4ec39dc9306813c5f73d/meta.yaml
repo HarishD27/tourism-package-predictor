@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/583e7a30eb0b4ec39dc9306813c5f73d/artifacts
+end_time: 1777802395546
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 583e7a30eb0b4ec39dc9306813c5f73d
+run_name: bright-flea-462
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802395511
+status: 3
+tags: []
+user_id: runner

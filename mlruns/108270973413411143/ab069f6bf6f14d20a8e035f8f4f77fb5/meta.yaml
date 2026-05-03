@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/ab069f6bf6f14d20a8e035f8f4f77fb5/artifacts
+end_time: 1777802401436
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: ab069f6bf6f14d20a8e035f8f4f77fb5
+run_name: abrasive-robin-382
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802401399
+status: 3
+tags: []
+user_id: runner

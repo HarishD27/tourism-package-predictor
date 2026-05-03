@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/0d68c89b7f7b4db5ac0b44f98b84feb5/artifacts
+end_time: 1777802381677
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 0d68c89b7f7b4db5ac0b44f98b84feb5
+run_name: wistful-shrew-120
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802381650
+status: 3
+tags: []
+user_id: runner

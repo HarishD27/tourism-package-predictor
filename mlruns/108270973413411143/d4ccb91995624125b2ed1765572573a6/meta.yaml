@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/d4ccb91995624125b2ed1765572573a6/artifacts
+end_time: 1777802399206
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: d4ccb91995624125b2ed1765572573a6
+run_name: auspicious-stork-200
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802399170
+status: 3
+tags: []
+user_id: runner

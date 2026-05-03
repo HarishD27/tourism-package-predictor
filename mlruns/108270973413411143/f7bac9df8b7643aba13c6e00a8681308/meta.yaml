@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/f7bac9df8b7643aba13c6e00a8681308/artifacts
+end_time: 1777802394394
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: f7bac9df8b7643aba13c6e00a8681308
+run_name: adorable-ox-750
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802394360
+status: 3
+tags: []
+user_id: runner

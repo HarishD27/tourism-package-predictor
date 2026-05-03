@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/241db9a2b80b415ca16c5191071a982d/artifacts
+end_time: 1777802387796
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 241db9a2b80b415ca16c5191071a982d
+run_name: serious-dog-84
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802387766
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/f70cb19dd17a4311a5be9baefdc40c6c/artifacts
+end_time: 1777802398600
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: f70cb19dd17a4311a5be9baefdc40c6c
+run_name: placid-crow-934
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802398563
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/b59a48832f6b4bec8315dbf8b45db314/artifacts
+end_time: 1777802391710
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: b59a48832f6b4bec8315dbf8b45db314
+run_name: secretive-whale-215
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802391678
+status: 3
+tags: []
+user_id: runner

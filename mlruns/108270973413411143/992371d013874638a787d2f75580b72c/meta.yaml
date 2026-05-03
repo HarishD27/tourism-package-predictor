@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/992371d013874638a787d2f75580b72c/artifacts
+end_time: 1777802399247
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 992371d013874638a787d2f75580b72c
+run_name: clumsy-auk-272
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802399210
+status: 3
+tags: []
+user_id: runner

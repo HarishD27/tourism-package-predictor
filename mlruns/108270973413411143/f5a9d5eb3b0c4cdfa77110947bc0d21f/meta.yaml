@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/f5a9d5eb3b0c4cdfa77110947bc0d21f/artifacts
+end_time: 1777802389983
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: f5a9d5eb3b0c4cdfa77110947bc0d21f
+run_name: gifted-ram-153
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802389951
+status: 3
+tags: []
+user_id: runner

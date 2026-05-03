@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/b58a64aa05cb4d329ba4e1df628f1c43/artifacts
+end_time: 1777802390987
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: b58a64aa05cb4d329ba4e1df628f1c43
+run_name: melodic-mule-116
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802390955
+status: 3
+tags: []
+user_id: runner

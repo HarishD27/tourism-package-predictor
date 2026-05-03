@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/a38c7076f8cc4248b98006f39f0d78d1/artifacts
+end_time: 1777802393414
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: a38c7076f8cc4248b98006f39f0d78d1
+run_name: handsome-hawk-342
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802393380
+status: 3
+tags: []
+user_id: runner

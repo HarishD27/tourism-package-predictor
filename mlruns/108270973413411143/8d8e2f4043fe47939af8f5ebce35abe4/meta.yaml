@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/8d8e2f4043fe47939af8f5ebce35abe4/artifacts
+end_time: 1777802391601
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: 8d8e2f4043fe47939af8f5ebce35abe4
+run_name: resilient-shark-482
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802391569
+status: 3
+tags: []
+user_id: runner

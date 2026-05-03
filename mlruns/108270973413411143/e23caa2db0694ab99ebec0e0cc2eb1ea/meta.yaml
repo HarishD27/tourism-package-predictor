@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/e23caa2db0694ab99ebec0e0cc2eb1ea/artifacts
+end_time: 1777802401893
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: e23caa2db0694ab99ebec0e0cc2eb1ea
+run_name: salty-fox-261
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802401855
+status: 3
+tags: []
+user_id: runner

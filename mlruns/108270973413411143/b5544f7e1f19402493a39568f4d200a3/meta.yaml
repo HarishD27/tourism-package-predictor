@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/b5544f7e1f19402493a39568f4d200a3/artifacts
+end_time: 1777802394813
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: b5544f7e1f19402493a39568f4d200a3
+run_name: stately-perch-181
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802394779
+status: 3
+tags: []
+user_id: runner

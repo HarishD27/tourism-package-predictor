@@ -1,0 +1,14 @@
+artifact_uri: /home/runner/work/tourism-package-predictor/tourism-package-predictor/mlruns/108270973413411143/efb06fee584e47a3a679d4871e3f6d73/artifacts
+end_time: 1777802403327
+entry_point_name: ''
+experiment_id: '108270973413411143'
+lifecycle_stage: active
+run_id: efb06fee584e47a3a679d4871e3f6d73
+run_name: wistful-gull-654
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777802403289
+status: 3
+tags: []
+user_id: runner
